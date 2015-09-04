@@ -52,9 +52,8 @@
 
 ---
 
+![](pics/silo.jpg)
 # Conway's Law
-
-![fit](pics/silo.jpg)
 
 ^Module 1
 
