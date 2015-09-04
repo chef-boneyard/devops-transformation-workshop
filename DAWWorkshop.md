@@ -90,12 +90,14 @@
 + Action resolves theory
 
 ---
+^Module 3 - Product, not organization
 
+
+![]()
 # Stop Shipping Your Org Chart!
 
-![fit](pics/Chef_Vertical_Reg_Without.png)
-
-^Module 3 - Product, not organization
++ The Two Product Principle
++ Solving one customer problem while building your capacity to improve...
 
 ---
 
