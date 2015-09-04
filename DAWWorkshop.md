@@ -154,7 +154,6 @@ Kaizen/Kaikaku
 - Blue - next steps, actions, plans - Process
 
 ---
-
 ## 4 Player Model
 
 ---
@@ -164,7 +163,7 @@ Kaizen/Kaikaku
 
 ---
 
-# [fit] Culture Debt > Technical Debt
+## Culture Debt > Technical Debt
 
 ---
 
@@ -205,9 +204,17 @@ We Want to:
 
 ---
 
-# 5/2/2
+![](pics/fail_safe.jpg)
 
-## team work, retrospective, rest
+---
+
+# Crucible
+
++ 2/1/1
++ 5/2/2
++ 10/5/2
+
+THIS --> team work, retrospective, rest
 
 ^Crucible - Run a timer for your teams
 
