@@ -168,10 +168,8 @@ Kaizen/Kaikaku
 ![fit](pics/3027706-inline-i-1-my-management-lessons-from-three-failed-startups-google-apple-dropbox-twitter-and-square.jpg)
 
 ---
-
-# The Crucible (The Holy Shit Moment MVP)
-
-![fit](pics/Chef_Vertical_Reg_Without.png)
+![](pics/crucible.jpg)
+# Build A Holy Shit Moment MVP
 
 ^Module 6
 
