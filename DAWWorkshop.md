@@ -129,7 +129,7 @@ Communities of practice
 
 ---
 
-2 wizards (results, pluralistic) in yer Org
+2 wizards (results/rational, pluralistic/humanist) in yer Org
 automate all the things, discuss the rest
 it's the people, stupid! - the pedagogic function of your team is your business value
 velocity/consistency(coherence)/scale
