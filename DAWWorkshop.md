@@ -19,12 +19,8 @@
 # Big Idea
 
 - Learning is the only competitive advantage.
-<<<<<<< HEAD
--  
-=======
 - Change is the only certainty.
 - therefore we learn about change...
->>>>>>> updated reading list
 
 ---
 
