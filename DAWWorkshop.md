@@ -120,7 +120,7 @@ Communities of practice
 
 ---
 
-![right](pics/industrial_kids.jpg)
+![right](pics/industry.jpg)
 # The Automation Cycle (seizing the means of production)
 
 ^Module 4
