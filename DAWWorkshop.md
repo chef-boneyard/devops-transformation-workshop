@@ -16,6 +16,16 @@
 ### @jchackert / jhackert@chef.io / spacemonkeypants (LoL)
 
 ---
+# Big Idea
+
+- Learning is the only competitive advantage.
+-  
+
+
+
+
+---
+
 # Agenda
 
 - _*Opening*_
