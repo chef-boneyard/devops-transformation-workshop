@@ -146,12 +146,12 @@ Kaizen/Kaikaku
 ![](pics/six-thinking-hats.jpg)
 ## 6 Thinking Hats
 
-+ White - Data, Facts, Information - Rational
-+ Red - Feelings, hunches - Intuitive
-+ Black - Difficulties and potential Problems - Concern
-+ Yellow - Values and benefits - The Why
-+ Green - creativity, possibility, outcomes - Aspiration
-+ Blue - next steps, actions, plans - Process
+- White - Data, Facts, Information - Rational
+- Red - Feelings, hunches - Intuitive
+- Black - Difficulties and potential Problems - Concern
+- Yellow - Values and benefits - The Why
+- Green - creativity, possibility, outcomes - Aspiration
+- Blue - next steps, actions, plans - Process
 
 ---
 
@@ -160,7 +160,7 @@ Kaizen/Kaikaku
 ---
 
 > Kindness requires no justification, no business case, and no corporate sponsor.
--- Hackert
+-- Dumbledore
 
 ---
 
