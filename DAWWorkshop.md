@@ -8,7 +8,7 @@
 ![](pics/jeff_hackert.JPG)
 
 # Justin Arbuckle
-## VP EMEA
+## VP EMEA, Chief Enterprise Architect
 ### @drmologue / ja@chef.io
 # Jeff Hackert
 ##Director Learning and Development
