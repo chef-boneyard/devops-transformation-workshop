@@ -78,12 +78,14 @@
 
 ^Module 2
 
----
++ 21st Century Work --> Pragmatist hacker ethos
++ software is eating the world
 
-21st Century Work
-software is eating the world
-pragmatic hacker ethos
-quick history of Agile, what is DevOps
+# A Quick history of LEAN, Agile and what _exactly_ is DevOps?
+
++ Small batches
++ Unmet Needs
++ Action resolves theory
 
 ---
 
