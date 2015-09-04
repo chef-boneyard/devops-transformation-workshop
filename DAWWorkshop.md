@@ -100,6 +100,7 @@
 ---
 
 Product - Customer focused
+
 Specializing generalists
 Communities of practice
 
