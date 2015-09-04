@@ -172,7 +172,7 @@ Kaizen/Kaikaku
 ---
 
 ![](pics/crucible.jpg)
-# Build A Holy Shit Moment MVP
+# Build A Holy Shit Moment
 
 ^Module 6
 
