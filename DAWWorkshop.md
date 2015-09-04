@@ -35,6 +35,15 @@
 ^flip chart 
 
 ---
+![](pics/Constellation-Scorpius.JPG)
+## Constellation Questions
++ I believe this workshop will be valuable.
++ When stressed, I like to be given clear directions.
++ When stressed, I like to create order.
++ I have a clear vision of how DevOps will unlock my awesome.
+
+---
+
 # Conway's Law
 
 ![fit](pics/Chef_Vertical_Reg_Without.png)
@@ -42,13 +51,23 @@
 ^Module 1
 
 ---
+
+Events, Language, 
 Silos and supervision structures make us slow
 small, entrepreneurial teams
 low trust environments
 Metcalfe
 Dunbar
 
-___
+---
+
+## Triangle - Game
+
+^Secretly pick two friends. Move around the room so that you and your two friends form the points of an equilateral triangle. Continue until everyone stops moving.
+
+^Debrief: What did that feel like? What would that have been like if you could only move when and where your manager tells you to?
+
+---
 
 # Brave New World (anticipating the outcome)
 
@@ -89,6 +108,10 @@ Communities of practice
 
 ---
 
+## Remember the Future - Game
+
+---
+
 # The Automation Cycle (seizing the means of production)
 
 ![fit](pics/Chef_Vertical_Reg_Without.png)
@@ -113,8 +136,11 @@ Kaizen/Kaikaku
 
 ---
 
-6 Hats
-4 Player Model
+## 6 Hats
+
+---
+
+## 4 Player Model
 
 ---
 
@@ -138,7 +164,6 @@ Kaizen/Kaikaku
 
 ---
 ## Collaboration
-
 is not:
 - 1 solution found by 1 person
 is:
