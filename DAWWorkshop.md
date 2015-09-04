@@ -1,5 +1,5 @@
-# [fit] 21st Century Work Workshop
-# [fit] Harvesting Meaningful Change
+# [fit] 21st Century Craft Workshop
+# [fit] Harvesting Meaningful Organisational Change from Technology
 ![fit](pics/Chef_Vertical_Reg_Without.png)
 
 ---
@@ -19,7 +19,12 @@
 # Big Idea
 
 - Learning is the only competitive advantage.
+<<<<<<< HEAD
 -  
+=======
+- Change is the only certainty.
+- therefore we learn about change...
+>>>>>>> updated reading list
 
 ---
 

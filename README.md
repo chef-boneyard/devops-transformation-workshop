@@ -1,8 +1,6 @@
 # DAW
 DevOps Acceleration Workshop
 
-
-
 ## Facilitators - Required Reading
 + http://www.cddc.vt.edu/sionline/si/manifesto.html
 + Extreme Programming Explained - Kent Beck
@@ -16,7 +14,7 @@ DevOps Acceleration Workshop
 + AntiFragile - Nassim Taleb
 + http://www.theatlantic.com/magazine/archive/2006/06/the-management-myth/304883/
 + The Field Guide to Understanding Human Error - Sidney Dekker
-+ Strategy Safari -
++ Strategy Safari - Henry Mintzburg
 + Lean Software Development - Mary/Tom Poppendeik
 + Lean Enterprise - Jez Humble, et. al.
 + Continuous Delivery - Jez Humble
@@ -29,3 +27,5 @@ DevOps Acceleration Workshop
 + Thinking Fast and Slow - Daniel Kahneman
 + Why Limit WIP - Jim Benson
 + Why Information Grows - Cesar Hidalgo
++ Reframing Business - Richard Normann
++ Diagnosing the System - Stafford Beer
