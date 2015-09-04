@@ -119,9 +119,8 @@ Communities of practice
 
 ---
 
+![right](pics/industrial_kids.jpg)
 # The Automation Cycle (seizing the means of production)
-
-![fit](pics/Chef_Vertical_Reg_Without.png)
 
 ^Module 4
 
@@ -167,9 +166,11 @@ Kaizen/Kaikaku
 # [fit] Culture Debt > Technical Debt
 
 ---
+
 ![fit](pics/3027706-inline-i-1-my-management-lessons-from-three-failed-startups-google-apple-dropbox-twitter-and-square.jpg)
 
 ---
+
 ![](pics/crucible.jpg)
 # Build A Holy Shit Moment MVP
 
@@ -183,6 +184,7 @@ Kaizen/Kaikaku
 ^ the power of adaptive learning
 
 ---
+
 ## Collaboration
 is not:
 - 1 solution found by 1 person
@@ -193,6 +195,7 @@ is:
 - Testing causes
 
 ---
+
 We Want to:
 - Explore options
 - Efficiently find potential solutions
@@ -208,6 +211,7 @@ We Want to:
 ^Crucible - Run a timer for your teams
 
 ---
+
 ![](pics/fail_safe.jpg)
 # Safe to Fail
 # Quick to Recover
