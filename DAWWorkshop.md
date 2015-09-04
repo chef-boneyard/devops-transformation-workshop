@@ -122,7 +122,7 @@ Communities of practice
 
 ---
 
-![right](pics/industrial_kids.jpg)
+![right](pics/industry.jpg)
 # The Automation Cycle (seizing the means of production)
 
 ^Module 4
@@ -174,7 +174,7 @@ Kaizen/Kaikaku
 ---
 
 ![](pics/crucible.jpg)
-# Build A Holy Shit Moment MVP
+# Build A Holy Shit Moment
 
 ^Module 6
 
