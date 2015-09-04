@@ -1,6 +1,6 @@
 # [fit] DevOps Acceleration Workshop
 # [fit] Fueling the Love of Continuous Delivery
-![fit](Chef_Vertical_Reg_Without.png)
+![fit](pics/Chef_Vertical_Reg_Without.png)
 
 ---
 
@@ -8,7 +8,7 @@
 ## VP EMEA/ Director L&D
 ### @drmologue/@jchackert / ja@chef.io/jhackert@chef.io / spacemonkeypants (LoL)
 
-![fit right](IMG_1365.JPG)
+![fit right](pics/IMG_1365.JPG)
 
 ---
 #Agenda
@@ -33,7 +33,7 @@
 
 ---
 
-![original](Lean-Black-Belt-Consultants.jpg)
+![original](pics/Lean-Black-Belt-Consultants.jpg)
 
 ---
 > precisely specify value by specific product, identify the value stream for each product, make value flow without interruptions, let the customer pull value from the producer, and pursue perfection.
@@ -128,7 +128,7 @@ Communities of Practice
 
 # Brave New World (anticipating the outcome)
 
-![fit](Chef_Vertical_Reg_Without.png)
+![fit](pics/Chef_Vertical_Reg_Without.png)
 
 ---
 # [fit] What is a team?
@@ -141,7 +141,7 @@ Communities of Practice
 # [fit] Psychological Safety
 
 ---
-![fit](3027706-inline-i-1-my-management-lessons-from-three-failed-startups-google-apple-dropbox-twitter-and-square.jpg)
+![fit](pics/3027706-inline-i-1-my-management-lessons-from-three-failed-startups-google-apple-dropbox-twitter-and-square.jpg)
 
 ---
 
@@ -155,7 +155,7 @@ Communities of Practice
 
 # Stop Shipping Your Org Chart!
 
-![fit](Chef_Vertical_Reg_Without.png)
+![fit](pics/Chef_Vertical_Reg_Without.png)
 
 ---
 # [fit] Kanban 101
@@ -201,7 +201,7 @@ Communities of Practice
 
 # The Automation Cycle (seizing the means of production)
 
-![fit](Chef_Vertical_Reg_Without.png)
+![fit](pics/Chef_Vertical_Reg_Without.png)
 
 ---
 ## Module 5
@@ -210,7 +210,7 @@ Communities of Practice
 
 ---
 
-![](o-UNICORN-ARMY-facebook.jpg)
+![](pics/o-UNICORN-ARMY-facebook.jpg)
 
 ^ we do not want to forage
 
@@ -240,7 +240,7 @@ We Want to:
 
 ---
 
-![](dharma_initiative_view_master_orientation_tool_by_farawaypictures-d5z89up.jpg)
+![](pics/dharma_initiative_view_master_orientation_tool_by_farawaypictures-d5z89up.jpg)
 
 ---
 
@@ -254,4 +254,4 @@ We Want to:
 
 ---
 
-![fit](break-all-of-the-things-eeaa02.png)
+![fit](pics/break-all-of-the-things-eeaa02.png)
