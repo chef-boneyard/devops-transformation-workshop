@@ -183,19 +183,19 @@ Kaizen/Kaikaku
 ---
 ## Collaboration
 is not:
-+ 1 solution found by 1 person
+- 1 solution found by 1 person
 is:
-+ Orientation
-+ developing hypothesis
-+ Finding causes
-+ Testing causes
+- Orientation
+- developing hypothesis
+- Finding causes
+- Testing causes
 
 ---
 We Want to:
-+ Explore options
-+ Efficiently find potential solutions
-+ Balance thinking and action
-+ Use the collective wisdom of the team
+- Explore options
+- Efficiently find potential solutions
+- Balance thinking and action
+- Use the collective wisdom of the team
 
 ---
 
