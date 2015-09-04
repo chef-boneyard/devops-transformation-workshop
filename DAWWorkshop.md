@@ -18,9 +18,9 @@
 ---
 # Big Idea
 
-- Learning is the only competitive advantage.
-- Change is the only certainty.
-- therefore we learn about change...
++ All product development is software development.
++ Software makes and shapes new markets. Continually.
++ Learning is the only competitive advantage.
 
 ---
 
@@ -51,11 +51,10 @@
 + I have a clear vision of how DevOps will unlock my awesome.
 
 ---
+^Module 1
 
 ![](pics/silo.jpg)
 # Conway's Law
-
-^Module 1
 
 + Silos beget Supervisors, Supervision without context makes you slow and stupid.
 + Move to Metcalf! What is your Dunbar number?
@@ -70,15 +69,16 @@
 ^Debrief: What did that feel like? What would that have been like if you could only move when and where your manager tells you to?
 
 ---
-
-# Brave New World (anticipating the outcome)
-
-![fit](pics/Chef_Vertical_Reg_Without.png)
-
 ^Module 2
+
+![](pics/handf.jpg)
+# Brave New World
+^(anticipating the outcome)
 
 + 21st Century Work --> Pragmatist hacker ethos
 + software is eating the world
++ Velocity is the new Hedgehog.
++ Compliance is the new fox.
 
 ---
 
