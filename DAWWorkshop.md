@@ -1,5 +1,5 @@
-# [fit] DevOps Acceleration Workshop
-# [fit] Fueling the Love of Continuous Delivery
+# [fit] 21st Century Work Workshop
+# [fit] Harvesting Meaningful Change
 ![fit](pics/Chef_Vertical_Reg_Without.png)
 
 ---
@@ -9,13 +9,14 @@
 
 # Justin Arbuckle
 ## VP EMEA, Chief Enterprise Architect
-### @drmologue / ja@chef.io
+### @dromologue / ja@chef.io
+
 # Jeff Hackert
-##Director Learning and Development
-###@jchackert / jhackert@chef.io / spacemonkeypants (LoL)
+## Director Learning and Development
+### @jchackert / jhackert@chef.io / spacemonkeypants (LoL)
 
 ---
-#Agenda
+# Agenda
 
 - _*Opening*_
 - _*Conway's Law*_
@@ -31,6 +32,7 @@
 # [fit] Working Agreements
 
 ^Go over breaks, cell phone and laptop use, how we will engage with each other, etc.
+^flip chart 
 
 ---
 # Conway's Law
