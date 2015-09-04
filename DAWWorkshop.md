@@ -4,7 +4,7 @@
 
 ---
 
-![](pics/justin_arbuckle.png)
+![](pics/JA2.JPG)
 ![](pics/jeff_hackert.JPG)
 
 # Justin Arbuckle
@@ -32,7 +32,7 @@
 # [fit] Working Agreements
 
 ^Go over breaks, cell phone and laptop use, how we will engage with each other, etc.
-^flip chart 
+^flip chart
 
 ---
 ![](pics/Constellation-Scorpius.JPG)
@@ -52,7 +52,7 @@
 
 ---
 
-Events, Language, 
+Events, Language,
 Silos and supervision structures make us slow
 small, entrepreneurial teams
 low trust environments
