@@ -85,6 +85,7 @@
 + Small batches
 + Unmet Needs
 + Action resolves theory
++ This is a tutorial...
 
 ---
 
