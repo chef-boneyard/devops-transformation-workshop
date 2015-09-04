@@ -146,7 +146,15 @@ Kaizen/Kaikaku
 
 ---
 
-## 6 Hats
+![](pics/six-thinking-hats.jpg)
+## 6 Thinking Hats
+
++ White - Data, Facts, Information - Rational
++ Red - Feelings, hunches - Intuitive
++ Black - Difficulties and potential Problems - Concern
++ Yellow - Values and benefits - The Why
++ Green - creativity, possibility, outcomes - Aspiration
++ Blue - next steps, actions, plans - Process
 
 ---
 
@@ -172,6 +180,12 @@ Kaizen/Kaikaku
 
 ^Module 6
 
+---
+
+> We convert fear into joy through surprise
+-- anon
+
+^the power of adaptive learning
 ---
 ## Collaboration
 is not:
