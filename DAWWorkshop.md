@@ -54,18 +54,13 @@
 
 # Conway's Law
 
-![fit](pics/Chef_Vertical_Reg_Without.png)
+![fit](pics/silo.jpg)
 
 ^Module 1
 
----
-
-Events, Language,
-Silos and supervision structures make us slow
-small, entrepreneurial teams
-low trust environments
-Metcalfe
-Dunbar
++ Silos beget Supervisors, Supervision without context makes you slow and stupid.
++ Move to Metcalf! What is your Dunbar number?
++ Small, entrepreneurial teams have context for defining quality and 'done'.
 
 ---
 
