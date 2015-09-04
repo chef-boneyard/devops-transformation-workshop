@@ -80,12 +80,14 @@
 + 21st Century Work --> Pragmatist hacker ethos
 + software is eating the world
 
+---
+
+![](pics/history.jpg)
 # A Quick history of LEAN, Agile and what _exactly_ is DevOps?
 
 + Small batches
 + Unmet Needs
 + Action resolves theory
-+ This is a tutorial...
 
 ---
 
