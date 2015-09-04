@@ -210,6 +210,8 @@ We Want to:
 
 ---
 
+
+![](pics/mortar.jpg)
 # Crucible
 
 + 2/1/1
