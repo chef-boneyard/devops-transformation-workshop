@@ -117,7 +117,7 @@ Communities of practice
 -- Yoda
 
 ---
-
+![](pics/backtothefuture.jpg)
 ## Remember the Future - Game
 
 ---
