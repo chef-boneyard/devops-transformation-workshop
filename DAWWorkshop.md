@@ -41,7 +41,7 @@
 
 ---
 Silos and supervision structures make us slow
-small, entreprenurial teams
+small, entrepreneurial teams
 low trust environments
 Metcalfe
 Dunbar
@@ -70,6 +70,13 @@ quick history of Agile, what is DevOps
 ^Module 3 - Product, not organization
 
 ---
+
+Product - Customer focused
+Specializing generalists
+Communities of practice
+
+---
+
 > "A late change in requirements is a competitive advantage".
 -- Mary Poppendieck
 
@@ -85,6 +92,15 @@ quick history of Agile, what is DevOps
 ![fit](pics/Chef_Vertical_Reg_Without.png)
 
 ^Module 4
+
+---
+
+2 wizards (results, pluralistic) in yer Org
+automate all the things, discuss the rest
+it's the people, stupid! - the pedagogic function of your team is your business value
+velocity/consistency(coherence)/scale
+Scale is not your problem
+Kaizen/Kaikaku
 
 ---
 
