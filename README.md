@@ -1,5 +1,5 @@
 # DAW
-DevOps Acceleration Workshop
+21st Century Craft Workshop
 
 ## Facilitators - Required Reading
 + http://www.cddc.vt.edu/sionline/si/manifesto.html
