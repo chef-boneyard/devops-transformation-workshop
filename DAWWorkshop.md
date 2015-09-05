@@ -1,6 +1,7 @@
+![](pics/mackintosh.jpg)
+
 # [fit] 21st Century Craft Workshop
 # [fit] Harvesting Meaningful Organisational Change from Technology
-![fit](pics/Chef_Vertical_Reg_Without.png)
 
 ---
 
@@ -16,7 +17,7 @@
 ### @jchackert / jhackert@chef.io / spacemonkeypants (LoL)
 
 ---
-# Big Idea
+# What's the Big Idea?
 
 + All product development is software development.
 + Software makes and shapes new markets. Continually.
@@ -43,8 +44,10 @@
 ^flip chart
 
 ---
+
 ![](pics/Constellation-Scorpius.JPG)
 ## Constellation Questions
+
 + I believe this workshop will be valuable.
 + When stressed, I like to be given clear directions.
 + When stressed, I like to create order.
@@ -62,7 +65,8 @@
 
 ---
 
-## Triangle - Game
+![](pics/triangles.jpg)
+## The Game of Triangles
 
 ^Secretly pick two friends. Move around the room so that you and your two friends form the points of an equilateral triangle. Continue until everyone stops moving.
 
