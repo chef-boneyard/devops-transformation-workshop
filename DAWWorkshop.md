@@ -24,10 +24,19 @@
 + Learning is the only competitive advantage.
 
 ---
+# Results
+
++ Identify a product, a first iteration of which you can deliver in 8 Weeks from now.
++ Identify areas of waste, blockages or frustration in your current practise...
++ Remediate these within the project
++ So that your _capability to build improves continually_ as you deliver value to the customer. 
+
+---
 
 # Agenda
 
 - _*Opening*_
+- _*Tools?*_
 - _*Conway's Law*_
 - _*Brave New World (anticipating the outcome)*_
 - _*Stop Shipping Your Org Chart!*_
@@ -54,7 +63,19 @@
 + I have a clear vision of how DevOps will unlock my awesome.
 
 ---
-^Module 1
+
+## Good News and Bad News
+### or, Episteme & Technae
+
++ Tools are awesome.
++ Knowing your craft and being part of a movement gets the most out of them.
++ You're not in the middle of a tool revolution... you're in the middle of a _craft_ revolution.
+
+
+---
+
+^Module 1 
+^Learning outcome --> Understand the impact of organisational structure on performance, quality and innovation.
 
 ![](pics/silo.jpg)
 # Conway's Law
@@ -97,7 +118,7 @@
 ^Module 3 - Product, not organization
 
 
-![]()
+![](pics/earthcentric.jpg)
 # Stop Shipping Your Org Chart!
 
 + The Two Product Principle
