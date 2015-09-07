@@ -110,9 +110,15 @@
 ![](pics/history.jpg)
 # A Quick history of LEAN, Agile and what _exactly_ is DevOps?
 
-+ Small batches
++ Small Batches
 + Unmet Needs
++ Reduce Waste
 + Action resolves theory
++ 2 wizards (results/rational, pluralistic/humanist) in yer Org
++ Automate all the things, discuss the rest
++ it's the people, stupid! - the pedagogic function of your team is your business value
++ Kaizen/Kaikaku
+
 
 ---
 ^Module 3 - Product, not organization
@@ -123,13 +129,10 @@
 
 + The Two Product Principle
 + Solving one customer problem while building your capacity to improve...
++ Specializing generalists
++ Communities of practice
++ Scale is not your problem
 
----
-
-Product - Customer focused
-
-Specializing generalists
-Communities of practice
 
 ---
 
@@ -147,19 +150,19 @@ Communities of practice
 
 ---
 
-![right](pics/industry.jpg)
-# The Automation Cycle (seizing the means of production)
 
 ^Module 4
 
----
+![right](pics/industry.jpg)
+# The Maker Cycle (seizing the means of production)
 
-2 wizards (results/rational, pluralistic/humanist) in yer Org
-automate all the things, discuss the rest
-it's the people, stupid! - the pedagogic function of your team is your business value
-velocity/consistency(coherence)/scale
-Scale is not your problem
-Kaizen/Kaikaku
++ Consistency
++ Velocity
++ Scale
+
+--> Create generative capabilities. 
+^ Autopoiesis
+
 
 ---
 
