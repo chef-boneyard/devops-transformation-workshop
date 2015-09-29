@@ -170,13 +170,20 @@ slidenumbers: true
 
 ---
 
-# Holy Shit Moment
+# A Holy Shit Moment
 
 
 ---
 
-# The Cauldron 
+# The Crucible  - Round 1 
 
+---
+
+# The Crucible  - Round 2
+
+---
+
+# The Crucible  - Round 3 
 
 ---
 
@@ -193,7 +200,7 @@ slidenumbers: true
 ---
 
 ![](pics/o-UNICORN-ARMY-facebook.jpg)
-# Transformation (Horses and Unicorns)
+# Transformation 
 
 ^This is where we get real about team interactions, because we are about to send them into the crucible. Lean Principle of Respect for people (Humanity), the 'why' of respect. The #hugops conversation. 
 
@@ -221,12 +228,6 @@ slidenumbers: true
 + Oppose
 + Follow
 
----
-
-> We convert fear into joy through surprise
--- anon
-
-^ the power of adaptive learning
 
 ---
 
@@ -263,12 +264,13 @@ THIS --> team work, retrospective, rest
 
 ^Quote Slide - put it up during an exercise
 
+
 ---
 
-![original](pics/Five_ivory_dice.jpg)
-# Shall We Play a Game?
+> We convert fear into joy through surprise
+-- anon
 
-^Excercise Slide, put it up during
+^ the power of adaptive learning
 
 ---
 
