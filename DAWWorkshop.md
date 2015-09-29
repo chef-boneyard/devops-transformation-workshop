@@ -23,14 +23,17 @@ slidenumbers: true
 # What's the Big Idea?
 
 + Software development is new product development.
-+ Software makes and shapes new markets continually.
-+ Learning is the only competitive advantage.
++ Learning is your competitive advantage.
++ Continuous improvement toward continuous delivery.
 
 ---
-# What to Expect
+# What to Expect, Why are we here
 
-+ Work on how we learn and deliver as a team.
-+ Identify a product, a first iteration of which you can deliver 8 Weeks from now.
++ Overview of the current environmnet
++ A quick history of the DevOps
++ Aquire tools for working in the new way - Lean/Agile/CD -  Communication, org dev, software dev
++ Identify an MVP a project we can deliver in 6 weeks (product and practice)
++ Iteratively and incrementally build our product pitch
 + Identify areas of waste, blockages or frustration in your current practise...
 + Remediate these within the project
 + So that your _capability to build improves continually_ as you deliver value to the customer.
@@ -40,7 +43,7 @@ slidenumbers: true
 # Agenda
 
 - _*Opening*_
-- _*Brave New World*_  ^DevOps 
+- _*Brave New World*_  ^DevOps
 - _*Conway's Law*_
 - _*Stop Shipping Your Org Chart!*_
 - _*The Automation Cycle (seizing the means of production)*_
