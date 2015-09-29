@@ -163,13 +163,19 @@ They create the events (Rules for Radicals)
 -- Mary Poppendieck
 
 ---
+
+# Activity
+
++ What is your project Scope?
++ Who is in your team?
++ What is your MVP?
+
+---
 ![](pics/backtothefuture.jpg)
 ## Remember the Future - Game
 
 ---
 
-
-^Module 4
 
 ![right](pics/industry.jpg)
 # The Maker Cycle - Generative Change
@@ -187,7 +193,11 @@ They create the events (Rules for Radicals)
 ![](pics/o-UNICORN-ARMY-facebook.jpg)
 # Transformation (Horses and Unicorns)
 
-^Module 5 - This is where we get real about team interactions, because we are about to send them into the crucible. Lean Principle of Respect for people (Humanity), the 'why' of hugops
+^This is where we get real about team interactions, because we are about to send them into the crucible. Lean Principle of Respect for people (Humanity), the 'why' of respect. The #hugops conversation. 
+
+^ Operating Chasm
+^ ELSA
+^ The closer you are to the line of execution the more difficult it is. 
 
 ---
 
