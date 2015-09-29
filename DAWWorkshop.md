@@ -153,6 +153,7 @@ slidenumbers: true
 ![](pics/backtothefuture.jpg)
 ## Remember the Future - Game
 
+^ product + practise.
 ^ dot rank attributes to become target conditions
 
 ---
@@ -211,39 +212,10 @@ slidenumbers: true
 
 ---
 
-![](pics/crucible.jpg)
-# Build A Holy Shit Moment
-
-
----
-
 > We convert fear into joy through surprise
 -- anon
 
 ^ the power of adaptive learning
-
----
-
-## Collaboration
-is not:
-- 1 solution found by 1 person
-is:
-- Orientation
-- developing hypothesis
-- Finding causes
-- Testing causes
-
----
-
-We Want to:
-- Explore options
-- Efficiently find potential solutions
-- Balance thinking and action
-- Use the collective wisdom of the team
-
----
-
-![](pics/fail_safe.jpg)
 
 ---
 
@@ -258,12 +230,6 @@ We Want to:
 THIS --> team work, retrospective, rest
 
 ^Crucible - Run a timer for your teams
-
----
-
-![](pics/fail_safe.jpg)
-# Safe to Fail
-# Quick to Recover
 
 ---
 
