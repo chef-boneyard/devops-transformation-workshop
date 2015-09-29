@@ -132,7 +132,7 @@ They create the events (Rules for Radicals)
 ---
 
 ![](pics/history.jpg)
-# A Quick history of LEAN, Agile and what _exactly_ is DevOps?
+# What _exactly_ is DevOps?
 
 + Small Batches
 + Unmet Needs
@@ -145,13 +145,12 @@ They create the events (Rules for Radicals)
 
 
 ---
-^Module 3 - Product, not organization
 
 
 ![](pics/earthcentric.jpg)
-# Stop Shipping Your Org Chart!
+# Resolving Theory with Action
 
-+ The Two Product Principle
++ The Two Product Principle / Product and Practise
 + Solving one customer problem while building your capacity to improve...
 + Specializing generalists
 + Communities of practice
@@ -162,11 +161,6 @@ They create the events (Rules for Radicals)
 
 > "A late change in requirements is a competitive advantage".
 -- Mary Poppendieck
-
----
-
-> "But only if you can act on it!"
--- Yoda
 
 ---
 ![](pics/backtothefuture.jpg)
@@ -209,11 +203,6 @@ They create the events (Rules for Radicals)
 
 ---
 ## 4 Player Model
-
----
-
-> Kindness requires no justification, no business case, and no corporate sponsor.
--- Dumbledore
 
 ---
 
