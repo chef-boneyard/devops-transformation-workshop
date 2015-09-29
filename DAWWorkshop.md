@@ -1,3 +1,7 @@
+autoscale: true
+footer: CHEF DAW, 2015
+slidenumbers: true
+
 ![](pics/mackintosh.jpg)
 
 # [fit] 21st Century Craft Workshop
