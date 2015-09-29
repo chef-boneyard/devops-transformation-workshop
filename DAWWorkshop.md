@@ -19,6 +19,17 @@ slidenumbers: true
 ## Director Learning and Development
 ### @jchackert / jhackert@chef.io / spacemonkeypants (LoL)
 
+
+---
+
+![](pics/Constellation-Scorpius.JPG)
+## Constellation Questions
+
++ I believe this workshop will be valuable.
++ When stressed, I like to be given clear directions.
++ When stressed, I like to create order.
++ I have a clear vision of how DevOps will unlock my awesome.
+
 ---
 # What's the Big Idea?
 
@@ -33,9 +44,6 @@ slidenumbers: true
 + Overview of the new world.
 + A quick history of DevOps.
 + Aquire tools for working in the new way - Lean/Agile/CD. 
-
-^ Communication, org dev, software dev
-
 + Identify an MVP for a project you can deliver in 6 weeks (product and practice).
 + Iteratively and incrementally build our product pitch.
 + Identify areas of waste, blockages or frustration in your current practise...
@@ -48,26 +56,11 @@ slidenumbers: true
 
 - _*Opening & Working Agreements*_
 - _*Brave New World*_  
-
-^DevOps
-
 - _*Conway's Law*_
 - _*Resolving Theory with Action*_
-
-^ Shipping org chart, tech debt
-
 - _*Continuous & Generative Improvement*_ 
-
-^ seizing the means of production, Automation Cycle.
-
 - _*Transformation*_
-
-^ Operating Chasm, 
-ELSA
-They create the events (Rules for Radicals)
-
 - _*The Crucible (Building The Holy Shit Moment MVP)*_
-
 - _*Closing*_
 
 ---
@@ -79,19 +72,10 @@ They create the events (Rules for Radicals)
 
 ---
 
-![](pics/Constellation-Scorpius.JPG)
-## Constellation Questions
-
-+ I believe this workshop will be valuable.
-+ When stressed, I like to be given clear directions.
-+ When stressed, I like to create order.
-+ I have a clear vision of how DevOps will unlock my awesome.
-
----
-
 ## Good News and Bad News
 ### or, Episteme & Technae
 
+^
 + Tools are awesome.
 + Knowing your craft and being part of a movement gets the most out of them.
 + You're not in the middle of a tool revolution... you're in the middle of a _craft_ revolution.
@@ -101,8 +85,7 @@ They create the events (Rules for Radicals)
 
 ![](pics/handf.jpg)
 # Brave New World
-^(anticipating the outcome)
-
+^
 + 21st Century Work --> Pragmatist hacker ethos
 + software is eating the world
 + Velocity is the new Hedgehog.
@@ -115,6 +98,7 @@ They create the events (Rules for Radicals)
 ![](pics/silo.jpg)
 # Conway's Law
 
+^
 + Silos beget Supervisors, Supervision without context makes you slow and stupid.
 + Move to Metcalf! What is your Dunbar number?
 + Small, entrepreneurial teams have context for defining quality and 'done'.
@@ -134,6 +118,7 @@ They create the events (Rules for Radicals)
 ![](pics/history.jpg)
 # What _exactly_ is DevOps?
 
+^
 + Small Batches
 + Unmet Needs
 + Reduce Waste
@@ -150,6 +135,7 @@ They create the events (Rules for Radicals)
 ![](pics/earthcentric.jpg)
 # Resolving Theory with Action
 
+^
 + The Two Product Principle / Product and Practise
 + Solving one customer problem while building your capacity to improve...
 + Specializing generalists
@@ -164,27 +150,31 @@ They create the events (Rules for Radicals)
 
 ---
 
-# Activity
-
-+ What is your project Scope?
-+ Who is in your team?
-+ What is your MVP?
-
----
 ![](pics/backtothefuture.jpg)
 ## Remember the Future - Game
 
+^ dot rank attributes to become target conditions
+
 ---
 
+#Day 2
+
+---
+
+# [fit] Working Agreements
+
+^Go over breaks, cell phone and laptop use, how we will engage with each other, etc.
+^flip chart
+
+---
 
 ![right](pics/industry.jpg)
 # The Maker Cycle - Generative Change
-
+^
 + Consistency
 + Velocity
 + Scale
 
---> Create generative capabilities.
 ^ Autopoiesis
 
 
@@ -213,7 +203,7 @@ They create the events (Rules for Radicals)
 
 ---
 ## 4 Player Model
-
+^
 + Bystand
 + Move
 + Oppose
