@@ -27,28 +27,47 @@ slidenumbers: true
 + Continuous improvement toward continuous delivery.
 
 ---
-# What to Expect, Why are we here
+# What to Expect. 
+## Why are we here?
 
-+ Overview of the current environmnet
-+ A quick history of the DevOps
-+ Aquire tools for working in the new way - Lean/Agile/CD -  Communication, org dev, software dev
-+ Identify an MVP a project we can deliver in 6 weeks (product and practice)
-+ Iteratively and incrementally build our product pitch
++ Overview of the new world.
++ A quick history of DevOps.
++ Aquire tools for working in the new way - Lean/Agile/CD. 
+
+^ Communication, org dev, software dev
+
++ Identify an MVP for a project you can deliver in 6 weeks (product and practice).
++ Iteratively and incrementally build our product pitch.
 + Identify areas of waste, blockages or frustration in your current practise...
-+ Remediate these within the project
++ Remediate these within the project by evolving your practise;
 + So that your _capability to build improves continually_ as you deliver value to the customer.
 
 ---
 
 # Agenda
 
-- _*Opening*_
-- _*Brave New World*_  ^DevOps
+- _*Opening & Working Agreements*_
+- _*Brave New World*_  
+
+^DevOps
+
 - _*Conway's Law*_
-- _*Stop Shipping Your Org Chart!*_
-- _*The Automation Cycle (seizing the means of production)*_
-- _*Transformation (Horses and Unicorns)*_
+- _*Resolving Theory with Action*_
+
+^ Shipping org chart, tech debt
+
+- _*Continuous & Generative Improvement*_ 
+
+^ seizing the means of production, Automation Cycle.
+
+- _*Transformation*_
+
+^ Operating Chasm, 
+ELSA
+They create the events (Rules for Radicals)
+
 - _*The Crucible (Building The Holy Shit Moment MVP)*_
+
 - _*Closing*_
 
 ---
@@ -80,7 +99,17 @@ slidenumbers: true
 
 ---
 
-^Module 1
+![](pics/handf.jpg)
+# Brave New World
+^(anticipating the outcome)
+
++ 21st Century Work --> Pragmatist hacker ethos
++ software is eating the world
++ Velocity is the new Hedgehog.
++ Compliance is the new fox.
+
+---
+
 ^Learning outcome --> Understand the impact of organisational structure on performance, quality and innovation.
 
 ![](pics/silo.jpg)
@@ -99,17 +128,6 @@ slidenumbers: true
 
 ^Debrief: What did that feel like? What would that have been like if you could only move when and where your manager tells you to?
 
----
-^Module 2
-
-![](pics/handf.jpg)
-# Brave New World
-^(anticipating the outcome)
-
-+ 21st Century Work --> Pragmatist hacker ethos
-+ software is eating the world
-+ Velocity is the new Hedgehog.
-+ Compliance is the new fox.
 
 ---
 
