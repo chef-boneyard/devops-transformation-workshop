@@ -160,12 +160,23 @@ slidenumbers: true
 
 #Day 2
 
+
 ---
 
 # [fit] Working Agreements
 
 ^Go over breaks, cell phone and laptop use, how we will engage with each other, etc.
 ^flip chart
+
+---
+
+# Holy Shit Moment
+
+
+---
+
+# The Cauldron 
+
 
 ---
 
@@ -223,8 +234,7 @@ slidenumbers: true
 ![](pics/mortar.jpg)
 # Crucible
 
-+ 2/1/1
-+ 5/2/2
++ 2/5/3/2
 + 10/5/2
 
 THIS --> team work, retrospective, rest
