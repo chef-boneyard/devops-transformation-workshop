@@ -172,7 +172,7 @@ They create the events (Rules for Radicals)
 ^Module 4
 
 ![right](pics/industry.jpg)
-# The Maker Cycle (seizing the means of production)
+# The Maker Cycle - Generative Change
 
 + Consistency
 + Velocity
@@ -204,20 +204,16 @@ They create the events (Rules for Radicals)
 ---
 ## 4 Player Model
 
----
-
-## Culture Debt > Technical Debt
-
----
-
-![fit](pics/3027706-inline-i-1-my-management-lessons-from-three-failed-startups-google-apple-dropbox-twitter-and-square.jpg)
++ Bystand
++ Move
++ Oppose
++ Follow
 
 ---
 
 ![](pics/crucible.jpg)
 # Build A Holy Shit Moment
 
-^Module 6
 
 ---
 
