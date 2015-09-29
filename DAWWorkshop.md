@@ -1,7 +1,6 @@
 ![](pics/mackintosh.jpg)
 
-# [fit] 21st Century Craft Workshop
-# [fit] Harvesting Meaningful Organisational Change from Technology
+# [fit] DevOps Acceleration Workshop
 
 ---
 
@@ -29,7 +28,7 @@
 + Identify a product, a first iteration of which you can deliver in 8 Weeks from now.
 + Identify areas of waste, blockages or frustration in your current practise...
 + Remediate these within the project
-+ So that your _capability to build improves continually_ as you deliver value to the customer. 
++ So that your _capability to build improves continually_ as you deliver value to the customer.
 
 ---
 
@@ -74,7 +73,7 @@
 
 ---
 
-^Module 1 
+^Module 1
 ^Learning outcome --> Understand the impact of organisational structure on performance, quality and innovation.
 
 ![](pics/silo.jpg)
@@ -160,7 +159,7 @@
 + Velocity
 + Scale
 
---> Create generative capabilities. 
+--> Create generative capabilities.
 ^ Autopoiesis
 
 
