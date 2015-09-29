@@ -22,14 +22,15 @@ slidenumbers: true
 ---
 # What's the Big Idea?
 
-+ Software development is new product development
-+ Software makes and shapes new markets. Continually
++ Software development is new product development.
++ Software makes and shapes new markets continually.
 + Learning is the only competitive advantage.
 
 ---
-# Results
+# What to Expect
 
-+ Identify a product, a first iteration of which you can deliver in 8 Weeks from now.
++ Work on how we learn and deliver as a team.
++ Identify a product, a first iteration of which you can deliver 8 Weeks from now.
 + Identify areas of waste, blockages or frustration in your current practise...
 + Remediate these within the project
 + So that your _capability to build improves continually_ as you deliver value to the customer.
@@ -39,9 +40,8 @@ slidenumbers: true
 # Agenda
 
 - _*Opening*_
-- _*Tools?*_
+- _*Brave New World*_  ^DevOps 
 - _*Conway's Law*_
-- _*Brave New World (anticipating the outcome)*_
 - _*Stop Shipping Your Org Chart!*_
 - _*The Automation Cycle (seizing the means of production)*_
 - _*Transformation (Horses and Unicorns)*_
