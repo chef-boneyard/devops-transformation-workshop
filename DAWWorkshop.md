@@ -22,8 +22,8 @@ slidenumbers: true
 ---
 # What's the Big Idea?
 
-+ All product development is software development.
-+ Software makes and shapes new markets. Continually.
++ Software development is new product development
++ Software makes and shapes new markets. Continually
 + Learning is the only competitive advantage.
 
 ---
