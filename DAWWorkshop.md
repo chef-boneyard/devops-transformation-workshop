@@ -2,7 +2,7 @@ autoscale: true
 footer: CHEF DAW, 2015
 slidenumbers: true
 
-![](pics/mackintosh.jpg)
+![](pics/accelerate.jpg)
 
 # [fit] DevOps Acceleration Workshop
 
@@ -31,6 +31,8 @@ slidenumbers: true
 + I have a clear vision of how DevOps will unlock my awesome.
 
 ---
+
+![](pics/measure.JPG)
 # What's the Big Idea?
 
 + Software development is new product development.
@@ -39,7 +41,6 @@ slidenumbers: true
 
 ---
 # What to Expect. 
-## Why are we here?
 
 + Overview of the new world.
 + A quick history of DevOps.
@@ -54,26 +55,27 @@ slidenumbers: true
 
 # Agenda
 
-- _*Opening & Working Agreements*_
-- _*Brave New World*_  
-- _*Conway's Law*_
-- _*Resolving Theory with Action*_
-- _*Continuous & Generative Improvement*_ 
-- _*Transformation*_
-- _*The Crucible (Building The Holy Shit Moment MVP)*_
-- _*Closing*_
++ _*Opening & Working Agreements*_
++ _*Brave New World*_  
++ _*Conway's Law*_
++ _*Resolving Theory with Action*_
++ _*Continuous & Generative Improvement*_ 
++ _*Transformation*_
++ _*The Crucible (Building The Holy Shit Moment MVP)*_
++ _*Closing*_
 
 ---
 
-# [fit] Working Agreements
+![](pics/knife1.jpg)
+# Working Agreements 
 
 ^Go over breaks, cell phone and laptop use, how we will engage with each other, etc.
 ^flip chart
 
 ---
 
-## Good News and Bad News
-### or, Episteme & Technae
+![](pics/tools.jpg)
+# Episteme & Technae
 
 ^
 + Tools are awesome.
@@ -142,11 +144,6 @@ slidenumbers: true
 + Communities of practice
 + Scale is not your problem
 
-
----
-
-> "A late change in requirements is a competitive advantage".
--- Mary Poppendieck
 
 ---
 
@@ -234,11 +231,10 @@ slidenumbers: true
 
 ![](pics/mortar.jpg)
 # Crucible
+## orient, act, reflect, rest
 
 + 2/5/3/2
-+ 10/5/2
-
-THIS --> team work, retrospective, rest
++ 2/10/5/2
 
 ^Crucible - Run a timer for your teams
 
@@ -277,3 +273,9 @@ THIS --> team work, retrospective, rest
 ![fit](pics/break-all-of-the-things-eeaa02.png)
 
 ^Break slide, put it up during breaks
+
+---
+
+> "A late change in requirements is a competitive advantage".
+-- Mary Poppendieck
+
