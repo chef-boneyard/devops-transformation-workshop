@@ -35,7 +35,7 @@ slidenumbers: true
 
 # What's the Big Idea?
 
-+ DevOps is the union tools, practices and culture
++ DevOps is a union of tools, practices and culture.
 + Software development is new product development.
 + Learning is your competitive advantage.
 + Continuous improvement toward continuous delivery.
@@ -155,10 +155,20 @@ Write on a flip chart, do this every day
 
 ---
 
+## Two Product Principle
+
+^ product + practise.
+
+---
+
+## Talking to Customers
+
+---
+
 ![](pics/backtothefuture.jpg)
 ## Remember the Future - Game
 
-^ product + practise.
+
 ^ dot rank attributes to become target conditions
 
 ---
