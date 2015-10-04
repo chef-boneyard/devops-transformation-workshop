@@ -2,7 +2,7 @@ autoscale: true
 footer: CHEF DAW, 2015
 slidenumbers: true
 
-![](pics/mackintosh.jpg)
+![](pics/accelerate.jpg)
 
 # [fit] DevOps Acceleration Workshop
 
@@ -67,6 +67,8 @@ slidenumbers: true
 
 ---
 
+![](pics/crash.jpg)
+
 # [fit] Working Agreements
 
 ^Go over breaks, cell phone and laptop use, how we will engage with each other, etc.
@@ -74,8 +76,9 @@ Write on a flip chart, do this every day
 
 ---
 
-## Good News and Bad News
-### or, Episteme & Technae
+![](pics/knife1.jpg)
+
+## Episteme & Technae
 
 ^
 + Tools are awesome.
@@ -86,7 +89,7 @@ Write on a flip chart, do this every day
 ---
 
 ![](pics/handf.jpg)
-# Brave New World
+# Brave New World 
 ^
 + 21st Century Work --> Pragmatist hacker ethos
 + software is eating the world
