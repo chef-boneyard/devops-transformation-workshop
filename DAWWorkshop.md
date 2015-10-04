@@ -2,9 +2,21 @@ autoscale: true
 footer: CHEF DAW, 2015
 slidenumbers: true
 
-![](pics/accelerate.jpg)
+![](pics/mackintosh.jpg)
 
 # [fit] DevOps Acceleration Workshop
+
+---
+
+![](pics/Constellation-Scorpius.JPG)
+## Constellation Questions
+
++ I believe this workshop will be valuable.
++ When stressed, I like to be given clear directions.
++ When stressed, I like to create order.
++ I have a clear vision of how DevOps will unlock my awesome.
+
+^ Opening exercise, begins when group assembles. We will do intros and working agreements after
 
 ---
 
@@ -19,32 +31,23 @@ slidenumbers: true
 ## Director Learning and Development
 ### @jchackert / jhackert@chef.io / spacemonkeypants (LoL)
 
-
 ---
 
-![](pics/Constellation-Scorpius.JPG)
-## Constellation Questions
-
-+ I believe this workshop will be valuable.
-+ When stressed, I like to be given clear directions.
-+ When stressed, I like to create order.
-+ I have a clear vision of how DevOps will unlock my awesome.
-
----
-
-![](pics/measure.JPG)
 # What's the Big Idea?
 
++ DevOps is the union tools, practices and culture
 + Software development is new product development.
 + Learning is your competitive advantage.
 + Continuous improvement toward continuous delivery.
 
 ---
-# What to Expect. 
+
+# What to Expect.
+## Why are we here?
 
 + Overview of the new world.
 + A quick history of DevOps.
-+ Aquire tools for working in the new way - Lean/Agile/CD. 
++ Aquire tools for working in the new way - Lean/Agile/CD.
 + Identify an MVP for a project you can deliver in 6 weeks (product and practice).
 + Iteratively and incrementally build our product pitch.
 + Identify areas of waste, blockages or frustration in your current practise...
@@ -53,29 +56,26 @@ slidenumbers: true
 
 ---
 
-# Agenda
+# Agenda Day One
 
 + _*Opening & Working Agreements*_
-+ _*Brave New World*_  
-+ _*Conway's Law*_
-+ _*Resolving Theory with Action*_
-+ _*Continuous & Generative Improvement*_ 
-+ _*Transformation*_
-+ _*The Crucible (Building The Holy Shit Moment MVP)*_
-+ _*Closing*_
++ _*Brave New World I*_  
++ _*Brave New World II*_
++ _*Back to the Future*_
+
+^ Introductions, who are you? what team?, what value?
 
 ---
 
-![](pics/knife1.jpg)
-# Working Agreements 
+# [fit] Working Agreements
 
 ^Go over breaks, cell phone and laptop use, how we will engage with each other, etc.
-^flip chart
+Write on a flip chart, do this every day
 
 ---
 
-![](pics/tools.jpg)
-# Episteme & Technae
+## Good News and Bad News
+### or, Episteme & Technae
 
 ^
 + Tools are awesome.
@@ -147,6 +147,11 @@ slidenumbers: true
 
 ---
 
+> "A late change in requirements is a competitive advantage".
+-- Mary Poppendieck
+
+---
+
 ![](pics/backtothefuture.jpg)
 ## Remember the Future - Game
 
@@ -157,6 +162,15 @@ slidenumbers: true
 
 #Day 2
 
+
+---
+
+# Agenda Day Two
+
++ _*Opening & Working Agreements*_
++ _*The Crucible (Building The Holy Shit Moment MVP)*_
++ _*Continuous & Generative Improvement*_
++ _*Closing*_
 
 ---
 
@@ -172,15 +186,11 @@ slidenumbers: true
 
 ---
 
-# The Crucible  - Round 1 
+# The Crucible  - Set Up
 
 ---
 
-# The Crucible  - Round 2
-
----
-
-# The Crucible  - Round 3 
+# The Crucible  - Round 1
 
 ---
 
@@ -197,13 +207,13 @@ slidenumbers: true
 ---
 
 ![](pics/o-UNICORN-ARMY-facebook.jpg)
-# Transformation 
+# Transformation
 
-^This is where we get real about team interactions, because we are about to send them into the crucible. Lean Principle of Respect for people (Humanity), the 'why' of respect. The #hugops conversation. 
+^This is where we get real about team interactions, because we are about to send them into the crucible. Lean Principle of Respect for people (Humanity), the 'why' of respect. The #hugops (Justin hates 'hugops') conversation.
 
 ^ Operating Chasm
 ^ ELSA
-^ The closer you are to the line of execution the more difficult it is. 
+^ The closer you are to the line of execution the more difficult it is.
 
 ---
 
@@ -228,15 +238,17 @@ slidenumbers: true
 
 ---
 
+# Agenda Day Three
 
-![](pics/mortar.jpg)
-# Crucible
-## orient, act, reflect, rest
++ _*The Crucible (Refining The Holy Shit Moment MVP)*_
++ _*Presentations*_
++ _*Retrospective*_
++ _*Closing*_
 
-+ 2/5/3/2
-+ 2/10/5/2
 
-^Crucible - Run a timer for your teams
+---
+
+# The Crucible  - Round 3
 
 ---
 
@@ -273,9 +285,3 @@ slidenumbers: true
 ![fit](pics/break-all-of-the-things-eeaa02.png)
 
 ^Break slide, put it up during breaks
-
----
-
-> "A late change in requirements is a competitive advantage".
--- Mary Poppendieck
-
