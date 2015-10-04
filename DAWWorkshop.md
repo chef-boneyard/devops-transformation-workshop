@@ -9,7 +9,7 @@ slidenumbers: true
 ---
 
 ![](pics/Constellation-Scorpius.JPG)
-## Constellation Questions
+## Activity 1 - Constellation Questions
 
 + I believe this workshop will be valuable.
 + When stressed, I like to be given clear directions.
@@ -17,6 +17,7 @@ slidenumbers: true
 + I have a clear vision of how DevOps will unlock my awesome.
 
 ^ Opening exercise, begins when group assembles. We will do intros and working agreements after
+^ self-organising. 
 
 ---
 
@@ -33,17 +34,19 @@ slidenumbers: true
 
 ---
 
+![](pics/dinnertable.JPG)
+
 # What's the Big Idea?
 
 + DevOps is a union of tools, practices and culture.
 + Software development is new product development.
-+ Learning is your competitive advantage.
-+ Continuous improvement toward continuous delivery.
++ Learning is the _*only*_ competitive advantage.
++ Strategy is conversation.
 
 ---
 
+
 # What to Expect.
-## Why are we here?
 
 + Overview of the new world.
 + A quick history of DevOps.
@@ -52,7 +55,10 @@ slidenumbers: true
 + Iteratively and incrementally build our product pitch.
 + Identify areas of waste, blockages or frustration in your current practise...
 + Remediate these within the project by evolving your practise;
-+ So that your _capability to build improves continually_ as you deliver value to the customer.
+
+---
+
+# Your _capability to build will improve continually_ as you deliver value to the customer.
 
 ---
 
@@ -62,6 +68,7 @@ slidenumbers: true
 + _*Brave New World I*_  
 + _*Brave New World II*_
 + _*Back to the Future*_
++ _*Closing*_
 
 ^ Introductions, who are you? what team?, what value?
 
@@ -81,20 +88,10 @@ Write on a flip chart, do this every day
 ## Episteme & Technae
 
 ^
-+ Tools are awesome.
++ Tools are awesome. DevOps is not just about tools. 
 + Knowing your craft and being part of a movement gets the most out of them.
 + You're not in the middle of a tool revolution... you're in the middle of a _craft_ revolution.
 
-
----
-
-![](pics/handf.jpg)
-# Brave New World 
-^
-+ 21st Century Work --> Pragmatist hacker ethos
-+ software is eating the world
-+ Velocity is the new Hedgehog.
-+ Compliance is the new fox.
 
 ---
 
@@ -104,18 +101,28 @@ Write on a flip chart, do this every day
 # Conway's Law
 
 ^
++ org structure is history not strategy
 + Silos beget Supervisors, Supervision without context makes you slow and stupid.
 + Move to Metcalf! What is your Dunbar number?
 + Small, entrepreneurial teams have context for defining quality and 'done'.
 
 ---
 
-![](pics/triangles.jpg)
-## The Game of Triangles
+## Activity 2 - Conway's Law 
 
-^Secretly pick two friends. Move around the room so that you and your two friends form the points of an equilateral triangle. Continue until everyone stops moving.
+In your teams, discuss some examples of how you see Conway's Law at work in your organisation.
 
-^Debrief: What did that feel like? What would that have been like if you could only move when and where your manager tells you to?
+
+---
+
+
+![](pics/handf.jpg)
+# Brave New World 
+^
++ 21st Century Work --> Pragmatist hacker ethos
++ software is eating the world
++ Velocity is the new Hedgehog.
++ Compliance is the new fox.
 
 
 ---
@@ -128,45 +135,38 @@ Write on a flip chart, do this every day
 + Unmet Needs
 + Reduce Waste
 + Action resolves theory
-+ 2 wizards (results/rational, pluralistic/humanist) in yer Org
++ 2 wizards (results/rational, pluralistic/humanist) in your Org
 + Automate all the things, discuss the rest
 + it's the people, stupid! - the pedagogic function of your team is your business value
 + Kaizen/Kaikaku
++ Lean Teams
 
 
 ---
 
+![](pics/triangles.jpg)
+## The Game of Triangles
 
-![](pics/earthcentric.jpg)
-# Resolving Theory with Action
+^Secretly pick two friends. Move around the room so that you and your two friends form the points of an equilateral triangle. Continue until everyone stops moving.
 
-^
-+ The Two Product Principle / Product and Practise
-+ Solving one customer problem while building your capacity to improve...
-+ Specializing generalists
-+ Communities of practice
-+ Scale is not your problem
-
-
----
-
-> "A late change in requirements is a competitive advantage".
--- Mary Poppendieck
-
----
-
-## Two Product Principle
-
-^ product + practise.
+^Debrief: What did that feel like? What would that have been like if you could only move when and where your manager tells you to?
 
 ---
 
 ## Talking to Customers
 
+^ product + practise.
+
+---
+
+## The Two Product Principle
+
+^
+
 ---
 
 ![](pics/backtothefuture.jpg)
-## Remember the Future - Game
+## Activity 3 - The Remember the Future Game
 
 
 ^ dot rank attributes to become target conditions
@@ -174,7 +174,6 @@ Write on a flip chart, do this every day
 ---
 
 #Day 2
-
 
 ---
 
@@ -195,6 +194,22 @@ Write on a flip chart, do this every day
 ---
 
 # A Holy Shit Moment
+
+
+---
+
+
+![](pics/earthcentric.jpg)
+# Resolving Theory with Action
+
+^
++ The Two Product Principle / Product and Practise
++ Solving one customer problem while building your capacity to improve...
++ Specializing generalists
++ Communities of practice
++ Scale is not your problem
++ 4 player model
++ 6 thinking hats
 
 
 ---
