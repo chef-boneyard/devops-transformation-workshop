@@ -183,7 +183,8 @@ flip chart
 
 ---
 
-# A Holy Shit Moment
+![](pics/holyshit.jpg)
+# A Holy Sh!t Moment
 
 ---
 
