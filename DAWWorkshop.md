@@ -45,7 +45,7 @@ slidenumbers: true
 ## What to Expect.
 
 + Overview of the new world.
-+ History of DevOps (Agile, Lean, Continous Delivery).
++ History of DevOps (Agile, Lean, Continuous Delivery).
 + Aquire tools for working in the new way - Lean/Agile/CD.
 + Identify an MVP for a project you can deliver in 6 weeks (product and practice).
 + Iteratively and incrementally build our product pitch.
@@ -124,8 +124,7 @@ Write on a flip chart, do this every day
 ^
 + From Ohno, to Agile, to now
 + Automate all the things, discuss the rest
-+ 2 wizards (results/rational, pluralistic/humanist) in your Org
-+ it's the people, stupid! - the pedagogic function of your team is your business value
++ Lean Software Development, XP, Continous Delivery
 + Kaizen/Kaikaku
 + Lean Teams
 
@@ -170,6 +169,8 @@ Solving one customer problem while building your capacity to improve...
 + _*Opening & Working Agreements*_
 + _*The Crucible (Building The Holy Shit Moment MVP)*_
 + _*Continuous & Generative Improvement*_
++ _*High Performance Teams (Doing the DevOps)*_
++ _*ELSA (Creating and Sustaining Change)
 + _*Closing*_
 
 ---
@@ -241,22 +242,26 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 ---
 
 ![](pics/o-UNICORN-ARMY-facebook.jpg)
-# High Performance Teams
+## High Performance Teams
+###Team Practices, Ceremonies, & Cadence
 
-^This is where we get real about team interactions, because we are about to send them into the crucible. Lean Principle of Respect for people (Humanity), the 'why' of respect. The #hugops (Justin hates 'hugops') conversation.
-Operating Chasm
-ELSA
-The closer you are to the line of execution the more difficult it is.
-+ 4 player model
-+ 6 thinking hats
-+ Satir Change Model
+^
++ Shared metaphor
++ Team Charter
++ Regular (Monthly or whatever the project requires) Architecture/Project Review -
++ Daily Stand Up
++ Bi-Weekly Backlog Grooming & Queue replenishment
++ Retrospective
++ Blameless Post Mortem
+
 
 ---
 
-![](pics/crucible.jpg)
-# The Crucible  - Round 3
+# ELSA
 
-^ 4 rounds of ROAR
+^
++ Operating Chasm
++ ELSA
 
 ---
 
@@ -268,6 +273,7 @@ The closer you are to the line of execution the more difficult it is.
 ## Agenda Day Three
 
 + _*The Crucible (Refining The Holy Shit Moment MVP)*_
++ _*Building a DevOps Coaching Practice*_
 + _*Presentations*_
 + _*Retrospective*_
 + _*Closing*_
@@ -290,9 +296,15 @@ The closer you are to the line of execution the more difficult it is.
 
 ---
 
-# Stances
+# The Coaching Practice
 
 ^ facilitation, training, mentorship, coaching
+This is where we get real about team interactions, because we are about to send them into the crucible. Lean Principle of
+Respect for people (Humanity), the 'why' of respect. The #hugops (Justin hates 'hugops') conversation.
+The closer you are to the line of execution the more difficult it is.
++ 4 player model
++ 6 thinking hats
++ Satir Change Model
 
 ---
 
