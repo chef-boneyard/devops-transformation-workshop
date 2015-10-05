@@ -3,7 +3,6 @@ footer: CHEF DAW, 2015
 slidenumbers: true
 
 ![](pics/accelerate.jpg)
-
 # [fit] DevOps Acceleration Workshop
 
 ---
@@ -16,8 +15,7 @@ slidenumbers: true
 + When stressed, I like to create order.
 + I have a clear vision of how DevOps will unlock my awesome.
 
-^ Opening exercise, begins when group assembles. We will do intros and working agreements after
-^ self-organising. 
+^ Opening exercise, begins when group assembles. We will do intros and working agreements after self-organising.
 
 ---
 
@@ -35,8 +33,7 @@ slidenumbers: true
 ---
 
 ![](pics/dinnertable.JPG)
-
-# What's the Big Idea?
+## What's the Big Idea?
 
 + DevOps is a union of tools, practices and culture.
 + Software development is new product development.
@@ -45,11 +42,10 @@ slidenumbers: true
 
 ---
 
-
-# What to Expect.
+## What to Expect.
 
 + Overview of the new world.
-+ A quick history of DevOps.
++ A Quick history from Ohno to DevOps (and back?).
 + Aquire tools for working in the new way - Lean/Agile/CD.
 + Identify an MVP for a project you can deliver in 6 weeks (product and practice).
 + Iteratively and incrementally build our product pitch.
@@ -61,8 +57,8 @@ slidenumbers: true
 # Your _capability to build will improve continually_ as you deliver value to the customer.
 
 ---
-
-# Agenda Day One
+![](pics/history.jpg)
+## Agenda Day One
 
 + _*Opening & Working Agreements*_
 + _*Brave New World I*_  
@@ -75,8 +71,7 @@ slidenumbers: true
 ---
 
 ![](pics/crash.jpg)
-
-# [fit] Working Agreements
+# Working Agreements
 
 ^Go over breaks, cell phone and laptop use, how we will engage with each other, etc.
 Write on a flip chart, do this every day
@@ -84,18 +79,16 @@ Write on a flip chart, do this every day
 ---
 
 ![](pics/knife1.jpg)
-
-## Episteme & Technae
+# Episteme & Technae
 
 ^
-+ Tools are awesome. DevOps is not just about tools. 
++ Tools are awesome. DevOps is not just about tools.
 + Knowing your craft and being part of a movement gets the most out of them.
 + You're not in the middle of a tool revolution... you're in the middle of a _craft_ revolution.
 
-
 ---
 
-^Learning outcome --> Understand the impact of organisational structure on performance, quality and innovation.
+^Learning outcome --> Understand the impact of organizational structure on performance, quality and innovation.
 
 ![](pics/silo.jpg)
 # Conway's Law
@@ -108,76 +101,71 @@ Write on a flip chart, do this every day
 
 ---
 
-## Activity 2 - Conway's Law 
+# Activity 2 - Conway's Law
 
-In your teams, discuss some examples of how you see Conway's Law at work in your organisation.
-
+^ In your teams, discuss some examples of how you see Conway's Law at work in your organisation.
 
 ---
 
-
 ![](pics/handf.jpg)
-# Brave New World 
+# Brave New World
+
 ^
 + 21st Century Work --> Pragmatist hacker ethos
 + software is eating the world
 + Velocity is the new Hedgehog.
 + Compliance is the new fox.
 
-
 ---
 
-![](pics/history.jpg)
+![](pics/workshop.jpg)
 # What _exactly_ is DevOps?
 
 ^
-+ Small Batches
-+ Unmet Needs
-+ Reduce Waste
-+ Action resolves theory
-+ 2 wizards (results/rational, pluralistic/humanist) in your Org
++ From Ohno, to Agile, to now
 + Automate all the things, discuss the rest
++ 2 wizards (results/rational, pluralistic/humanist) in your Org
 + it's the people, stupid! - the pedagogic function of your team is your business value
 + Kaizen/Kaikaku
 + Lean Teams
 
-
 ---
 
 ![](pics/triangles.jpg)
-## The Game of Triangles
+# The Game of Triangles
 
 ^Secretly pick two friends. Move around the room so that you and your two friends form the points of an equilateral triangle. Continue until everyone stops moving.
-
-^Debrief: What did that feel like? What would that have been like if you could only move when and where your manager tells you to?
+Debrief: What did that feel like? What would that have been like if you could only move when and where your manager tells you to?
 
 ---
 
-## Talking to Customers
+# Talking to Customers
 
 ^ product + practise.
+Customer interviews - go over validating your assumptions - foreshadowing day 2
 
 ---
 
-## The Two Product Principle
+# The Two Product Principle
 
-^
+^ Kaizen improvements e.g. automate infrastructure, increase test coverage & Customer Value
+Solving one customer problem while building your capacity to improve...
 
 ---
 
 ![](pics/backtothefuture.jpg)
-## Activity 3 - The Remember the Future Game
-
+# Activity 3 - The Remember the Future Game
 
 ^ dot rank attributes to become target conditions
 
 ---
 
-#Day 2
+# Day 2
 
 ---
 
-# Agenda Day Two
+![](pics/history.jpg)
+## Agenda Day Two
 
 + _*Opening & Working Agreements*_
 + _*The Crucible (Building The Holy Shit Moment MVP)*_
@@ -186,39 +174,49 @@ In your teams, discuss some examples of how you see Conway's Law at work in your
 
 ---
 
-# [fit] Working Agreements
+![](pics/crash.jpg)
+# Working Agreements
 
 ^Go over breaks, cell phone and laptop use, how we will engage with each other, etc.
-^flip chart
+flip chart
 
 ---
 
 # A Holy Shit Moment
 
-
 ---
-
 
 ![](pics/earthcentric.jpg)
 # Resolving Theory with Action
 
 ^
-+ The Two Product Principle / Product and Practise
-+ Solving one customer problem while building your capacity to improve...
 + Specializing generalists
-+ Communities of practice
 + Scale is not your problem
-+ 4 player model
-+ 6 thinking hats
 
+---
+
+# IOTA
+## Building a J2 Product Sheet
 
 ---
 
 # The Crucible  - Set Up
+## ROAR (Rest, Orient, Act, Reflect)
+
++ 4 rounds of crucible
++ 15 minutes reflection
++ 1 and 15mins content
++ 15 minute break
+
+^ IOTA Model, ROAR (Rest 5mins, Orient 5mins, Act 3mins (it's on the J2, ready to ship), Reflect 2mins)
+collect J2 sheets from each team at the end - teams must build new J2s with each iteration
 
 ---
 
+![](pics/crucible.jpg)
 # The Crucible  - Round 1
+
+^ 4 rounds of ROAR
 
 ---
 
@@ -231,75 +229,111 @@ In your teams, discuss some examples of how you see Conway's Law at work in your
 
 ^ Autopoiesis
 
+---
+
+![](pics/crucible.jpg)
+# The Crucible  - Round 2
+
+^ 4 rounds of ROAR
 
 ---
 
 ![](pics/o-UNICORN-ARMY-facebook.jpg)
-# Transformation
+# High Performance Teams
 
 ^This is where we get real about team interactions, because we are about to send them into the crucible. Lean Principle of Respect for people (Humanity), the 'why' of respect. The #hugops (Justin hates 'hugops') conversation.
-
-^ Operating Chasm
-^ ELSA
-^ The closer you are to the line of execution the more difficult it is.
-
----
-
-![](pics/six-thinking-hats.jpg)
-## 6 Thinking Hats
-
-- White - Data, Facts, Information - Rational
-- Red - Feelings, hunches - Intuitive
-- Black - Difficulties and potential Problems - Concern
-- Yellow - Values and benefits - The Why
-- Green - creativity, possibility, outcomes - Aspiration
-- Blue - next steps, actions, plans - Process
-
----
-## 4 Player Model
-^
-+ Bystand
-+ Move
-+ Oppose
-+ Follow
-
+Operating Chasm
+ELSA
+The closer you are to the line of execution the more difficult it is.
++ 4 player model
++ 6 thinking hats
++ Satir Change Model
 
 ---
 
-# Agenda Day Three
+![](pics/crucible.jpg)
+# The Crucible  - Round 3
+
+^ 4 rounds of ROAR
+
+---
+
+# Day 3
+
+---
+
+![](pics/history.jpg)
+## Agenda Day Three
 
 + _*The Crucible (Refining The Holy Shit Moment MVP)*_
 + _*Presentations*_
 + _*Retrospective*_
 + _*Closing*_
 
+---
+
+![](pics/crash.jpg)
+
+# Working Agreements
 
 ---
 
+![](pics/crucible.jpg)
+# The Crucible  - Round 1
+
+---
+
+![](pics/crucible.jpg)
+# The Crucible  - Round 2
+
+---
+
+# Stances
+
+^ facilitation, training, mentorship, coaching
+
+---
+
+# Coaching Cohort and Community of Practice
+
+---
+
+![](pics/crucible.jpg)
 # The Crucible  - Round 3
 
 ---
 
-# [fit] Errata
+# Presentations
+
+^ Prep, Rehearse, Deliver (1 hr)
 
 ---
-> precisely specify value by specific product, identify the value stream for each product, make value flow without interruptions, let the customer pull value from the producer, and pursue perfection.
+
+# Retrospective
+
+---
+
+# Errata
+
+---
+> precisely specify value by specific product... make value flow without interruptions, let the customer pull value from the producer, and pursue perfection.
 -- Womack & Jones
 
 ^Quote Slide - put it up during an exercise
 
 ---
+
 > Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 -- Agile Principles
 
 ^Quote Slide - put it up during an exercise
 
 ---
+
 > The longer it takes to get feedback the greater the effort required to make the change.
 -- Someone Special
 
 ^Quote Slide - put it up during an exercise
-
 
 ---
 
@@ -307,6 +341,28 @@ In your teams, discuss some examples of how you see Conway's Law at work in your
 -- anon
 
 ^ the power of adaptive learning
+
+---
+
+![](pics/six-thinking-hats.jpg)
+## 6 Thinking Hats
+
++ White - Data, Facts, Information - Rational
++ Red - Feelings, hunches - Intuitive
++ Black - Difficulties and potential Problems - Concern
++ Yellow - Values and benefits - The Why
++ Green - creativity, possibility, outcomes - Aspiration
++ Blue - next steps, actions, plans - Process
+
+---
+
+# 4 Player Model
+
+^
++ Bystand
++ Move
++ Oppose
++ Follow
 
 ---
 
