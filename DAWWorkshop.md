@@ -45,7 +45,7 @@ slidenumbers: true
 ## What to Expect.
 
 + Overview of the new world.
-+ A Quick history from Ohno to DevOps (and back?).
++ History of DevOps (Agile, Lean, Continous Delivery).
 + Aquire tools for working in the new way - Lean/Agile/CD.
 + Identify an MVP for a project you can deliver in 6 weeks (product and practice).
 + Iteratively and incrementally build our product pitch.
@@ -198,6 +198,8 @@ flip chart
 # IOTA
 ## Building a J2 Product Sheet
 
+^ Describe the IOTA model, train to build the sheet
+
 ---
 
 # The Crucible  - Set Up
@@ -208,7 +210,7 @@ flip chart
 + 1 and 15mins content
 + 15 minute break
 
-^ IOTA Model, ROAR (Rest 5mins, Orient 5mins, Act 3mins (it's on the J2, ready to ship), Reflect 2mins)
+^ ROAR (Rest 5mins, Orient 5mins, Act 3mins (it's on the J2, ready to ship), Reflect 2mins)
 collect J2 sheets from each team at the end - teams must build new J2s with each iteration
 
 ---
