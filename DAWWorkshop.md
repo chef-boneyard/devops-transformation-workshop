@@ -118,47 +118,6 @@ Write on a flip chart, do this every day
 
 ---
 
-![](pics/workshop.jpg)
-# What _exactly_ is DevOps?
-
-^
-+ From Ohno, to Agile, to now
-+ Automate all the things, discuss the rest
-+ Lean Software Development, XP, Continous Delivery
-+ Kaizen/Kaikaku
-+ Lean Teams
-
----
-
-![](pics/triangles.jpg)
-# The Game of Triangles
-
-^Secretly pick two friends. Move around the room so that you and your two friends form the points of an equilateral triangle. Continue until everyone stops moving.
-Debrief: What did that feel like? What would that have been like if you could only move when and where your manager tells you to?
-
----
-
-# Talking to Customers
-
-^ product + practise.
-Customer interviews - go over validating your assumptions - foreshadowing day 2
-
----
-
-# The Two Product Principle
-
-^ Kaizen improvements e.g. automate infrastructure, increase test coverage & Customer Value
-Solving one customer problem while building your capacity to improve...
-
----
-
-![](pics/backtothefuture.jpg)
-# Activity 3 - The Remember the Future Game
-
-^ dot rank attributes to become target conditions
-
----
-
 # Day 2
 
 ---
@@ -183,8 +142,49 @@ flip chart
 
 ---
 
+![](pics/workshop.jpg)
+# What _exactly_ is DevOps?
+
+^
++ From Ohno, to Agile, to now
++ Automate all the things, discuss the rest
++ Lean Software Development, XP, Continuous Delivery
++ Kaizen/Kaikaku
++ Lean Teams
+
+---
+
+![](pics/triangles.jpg)
+# The Game of Triangles
+
+^Secretly pick two friends. Move around the room so that you and your two friends form the points of an equilateral triangle. Continue until everyone stops moving.
+Debrief: What did that feel like? What would that have been like if you could only move when and where your manager tells you to?
+
+---
+
+# The Two Product Principle
+
+^ Kaizen improvements e.g. automate infrastructure, increase test coverage & Customer Value
+Solving one customer problem while building your capacity to improve...
+
+---
+
 ![](pics/holyshit.jpg)
 # A Holy Sh!t Moment
+
+---
+
+# Talking to Customers
+
+^ product + practise.
+Customer interviews - go over validating your assumptions - foreshadowing day 2
+
+---
+
+![](pics/backtothefuture.jpg)
+# Activity 3 - The Remember the Future Game
+
+^ dot rank attributes to become target conditions
 
 ---
 
