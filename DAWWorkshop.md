@@ -197,6 +197,8 @@ Customer interviews - go over validating your assumptions - foreshadowing day 2
 
 ---
 
+
+![fit](pics/j2.jpg)
 # IOTA
 ## Building a J2 Product Sheet
 
@@ -204,6 +206,7 @@ Customer interviews - go over validating your assumptions - foreshadowing day 2
 
 ---
 
+![fit](pics/cruciblecurve.jpg)
 # The Crucible  - Set Up
 ## ROAR (Rest, Orient, Act, Reflect)
 
