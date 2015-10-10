@@ -255,7 +255,6 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 + Retrospective
 + Blameless Post Mortem
 
-
 ---
 
 # ELSA
