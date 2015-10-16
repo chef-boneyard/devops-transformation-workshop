@@ -11,11 +11,11 @@ We create an agenda separately from this file as it changes with every session (
 5 kinds of slides... Structure, Content, Activity, Concepts, Tools --> Each have a common layout and structure.
 Talking points are now visible on the slides. We dont refer to the slides, they're just backgrounds and the text wont distract. Also - it allows us to easily send out a PDF of the slides with some actual content. 
 
-
+![](pics/paint5.JPG)
 # [fit] DevOps Acceleration Workshop
 
 ---
-![](pics/paint5.JPG)
+![](pics/door2.JPG)
 ## Activity - Constellation Questions
 
 - I believe this workshop will be valuable.
@@ -28,15 +28,15 @@ Talking points are now visible on the slides. We dont refer to the slides, they'
 ---
 
 ![left](pics/JA2.JPG)
-
-Justin Arbuckle
-VP Worldwide Transformation, Chief Architect CHEF
-@dromologue / ja@chef.io
-
 ![right](pics/jeff_hackert.JPG)
 
+Justin Arbuckle
+VP Worldwide Transformation, Chief Architect - CHEF
+@dromologue / ja@chef.io
+
+
 Jeff Hackert
-Director Learning and Development CHEF
+Director Coaching - CHEF
 @jchackert / jhackert@chef.io / spacemonkeypants (LoL)
 
 ---
@@ -84,7 +84,7 @@ Write on a flip chart, do this every day
 
 ---
 
-![](pics/paint6.jpg)
+![](pics/paint2.jpg)
 # Tools: Episteme & Technae
 
 + Tools are awesome. DevOps is not just about tools.
@@ -105,7 +105,7 @@ Write on a flip chart, do this every day
 
 ---
 
-![](pics/paint8.jpg)
+![](pics/plastic3.jpg)
 # Themes: Brave New World
 
 + 21st Century Work & the Pragmatist hacker ethos
@@ -114,7 +114,7 @@ Write on a flip chart, do this every day
 
 ---
 
-![](pics/paint8.jpg)
+![](pics/plastic3.jpg)
 # Themes: What _exactly_ is DevOps?
 
 + Ohno and Lean
@@ -125,7 +125,7 @@ Write on a flip chart, do this every day
 
 ---
 
-![](pics/paint2.jpg)
+![](pics/door2.jpg)
 # Activity - The Game of Triangles
 
 Secretly pick two friends. 
@@ -136,7 +136,7 @@ Continue until everyone stops moving.
 
 ---
 
-![](pics/paint6.jpg)
+![](pics/paint2.jpg)
 # Tools: The Two Product Principle
 
 + We build to Ship.
@@ -150,7 +150,7 @@ Continue until everyone stops moving.
 
 ---
 
-![](pics/paint8.jpg)
+![](pics/plastic3.jpg)
 # Themes: A Holy Sh!t Moment
 
 + Remember the 2 Product Principle
@@ -159,7 +159,7 @@ Continue until everyone stops moving.
 
 ---
 
-![](pics/paint8.jpg)
+![](pics/plastic3.jpg)
 
 ## Themes: Strategy as Conversation
 
@@ -168,14 +168,14 @@ Continue until everyone stops moving.
 
 ---
 
-![](pics/paint2.jpg)
+![](pics/door2.jpg)
 ## Activity -  'Remember the Future' 
 
 ^ dot rank attributes to become target conditions
 
 ---
 
-![](pics/paint8.jpg)
+![](pics/plastic3.jpg)
 # Themes: Resolving Theory with Action
 
 + Specializing generalists
@@ -191,7 +191,7 @@ Continue until everyone stops moving.
 
 ---
 
-![](pics/paint6.jpg)
+![](pics/paint2.jpg)
 # Tools: IOTA
 
 + Building a J2 Product Sheet
@@ -199,7 +199,7 @@ Continue until everyone stops moving.
 
 ---
 
-![](pics/paint2.jpg)
+![](pics/door2.jpg)
 # Activity - The Crucible
 
 + Rest: 3 minutes
@@ -213,9 +213,9 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 ---
 
-![](pics/paint8.jpg)
+![](pics/plastic3.jpg)
 # Themes: The Maker Cycle - Generative Change
-^
+
 + Consistency
 + Velocity
 + Scale
@@ -229,7 +229,7 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 + Shared metaphor
 + Team Charter
-+ Regular (Monthly or whatever the project requires) Architecture/Project Review -
++ Regular Architecture/Project Review
 + Daily Stand Up
 + Bi-Weekly Backlog Grooming & Queue replenishment
 + Retrospective
@@ -238,7 +238,7 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 ---
 
-![](pics/paint6.jpg)
+![](pics/paint2.jpg)
 # Tools: ELSA
 
 + Crossing the Operating Chasm
