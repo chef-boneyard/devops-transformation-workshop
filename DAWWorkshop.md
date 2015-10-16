@@ -2,38 +2,47 @@ autoscale: true
 footer: CHEF DAW, 2015
 slidenumbers: true
 
-![](pics/accelerate.jpg)
+^ Style guide: 
+Main sections are single hash.
+Sub sections are double hash.
+talking points are listed on the slides as +
+additional comments are linked within the slides. see [Link Example](/linkexample.md) 
+We create an agenda separately from this file as it changes with every session (which is ok).
+4 kinds of slides... Structure, Content, Activity, Concepts --> Each have a common layout and structure.
+
+
+
 # [fit] DevOps Acceleration Workshop
 
 ---
+![](pics/wood1.JPG)
+## Activity - Constellation Questions
 
-![](pics/Constellation-Scorpius.JPG)
-## Activity 1 - Constellation Questions
-
-+ I believe this workshop will be valuable.
-+ When stressed, I like to be given clear directions.
-+ When stressed, I like to create order.
-+ I have a clear vision of how DevOps will unlock my awesome.
+- I believe this workshop will be valuable.
+- When stressed, I like to be given clear directions.
+- When stressed, I like to create order.
+- I have a clear vision of how DevOps will unlock my awesome.
 
 ^ Opening exercise, begins when group assembles. We will do intros and working agreements after self-organising.
 
 ---
 
-![](pics/JA2.JPG)
-![](pics/jeff_hackert.JPG)
+![left](pics/JA2.JPG)
 
-# Justin Arbuckle
-## VP EMEA, Chief Enterprise Architect
-### @dromologue / ja@chef.io
+Justin Arbuckle
+VP Worldwide Transformation, Chief Architect CHEF
+@dromologue / ja@chef.io
 
-# Jeff Hackert
-## Director Learning and Development
-### @jchackert / jhackert@chef.io / spacemonkeypants (LoL)
+![right](pics/jeff_hackert.JPG)
+
+Jeff Hackert
+Director Learning and Development CHEF
+@jchackert / jhackert@chef.io / spacemonkeypants (LoL)
 
 ---
 
-![](pics/dinnertable.JPG)
-## What's the Big Idea?
+![](pics/metal1.JPG)
+# What's the Big Idea?
 
 + DevOps is a union of tools, practices and culture.
 + Software development is new product development.
@@ -42,46 +51,42 @@ slidenumbers: true
 
 ---
 
-## What to Expect.
+![](pics/metal1.JPG)
+# What to Expect...
 
 + Overview of the new world.
 + History of DevOps (Agile, Lean, Continuous Delivery).
 + Aquire tools for working in the new way - Lean/Agile/CD.
 + Identify an MVP for a project you can deliver in 6 weeks (product and practice).
+
+---
+
+![](pics/metal1.JPG)
+# What (more) to Expect...
+
 + Iteratively and incrementally build our product pitch.
 + Identify areas of waste, blockages or frustration in your current practise...
 + Remediate these within the project by evolving your practise;
 
 ---
 
+![](pics/paint1.JPG)
+
 # Your _capability to build will improve continually_ as you deliver value to the customer.
 
 ---
-![](pics/history.jpg)
-## Agenda Day One
+![](pics/metal1.JPG)
 
-+ _*Opening & Working Agreements*_
-+ _*Brave New World I*_  
-+ _*Brave New World II*_
-+ _*Back to the Future*_
-+ _*Closing*_
-
-^ Introductions, who are you? what team?, what value?
-
----
-
-![](pics/crash.jpg)
-# Working Agreements
+## Working Agreements
 
 ^Go over breaks, cell phone and laptop use, how we will engage with each other, etc.
 Write on a flip chart, do this every day
 
 ---
 
-![](pics/knife1.jpg)
-# Episteme & Technae
+![](pics/glass1.jpg)
+# Tools: Episteme & Technae
 
-^
 + Tools are awesome. DevOps is not just about tools.
 + Knowing your craft and being part of a movement gets the most out of them.
 + You're not in the middle of a tool revolution... you're in the middle of a _craft_ revolution.
@@ -90,62 +95,29 @@ Write on a flip chart, do this every day
 
 ^Learning outcome --> Understand the impact of organizational structure on performance, quality and innovation.
 
-![](pics/silo.jpg)
-# Conway's Law
+![](pics/glass2.jpg)
+# Organisations: Conway's Law
 
-^
-+ org structure is history not strategy
-+ Silos beget Supervisors, Supervision without context makes you slow and stupid.
++ Organisational structure is history not strategy
++ Silos beget Supervisors, Supervisors beget process
 + Move to Metcalf! What is your Dunbar number?
-+ Small, entrepreneurial teams have context for defining quality and 'done'.
++ Only small, entrepreneurial teams have the context for defining quality and 'done'.
 
 ---
 
-# Activity 2 - Conway's Law
+![](pics/glass3.jpg)
+# Industry: Brave New World
 
-^ In your teams, discuss some examples of how you see Conway's Law at work in your organisation.
++ 21st Century Work & the Pragmatist hacker ethos
++ Software is eating the world
++ Velocity Hedgehogs & Compliance foxes
 
----
-
-![](pics/handf.jpg)
-# Brave New World
-
-^
-+ 21st Century Work --> Pragmatist hacker ethos
-+ software is eating the world
-+ Velocity is the new Hedgehog.
-+ Compliance is the new fox.
 
 ---
 
-# Day 2
-
----
-
-![](pics/history.jpg)
-## Agenda Day Two
-
-+ _*Opening & Working Agreements*_
-+ _*The Crucible (Building The Holy Shit Moment MVP)*_
-+ _*Continuous & Generative Improvement*_
-+ _*High Performance Teams (Doing the DevOps)*_
-+ _*ELSA (Creating and Sustaining Change)
-+ _*Closing*_
-
----
-
-![](pics/crash.jpg)
-# Working Agreements
-
-^Go over breaks, cell phone and laptop use, how we will engage with each other, etc.
-flip chart
-
----
-
-![](pics/workshop.jpg)
+![](pics/glass1.jpg)
 # What _exactly_ is DevOps?
 
-^
 + From Ohno, to Agile, to now
 + Automate all the things, discuss the rest
 + Lean Software Development, XP, Continuous Delivery
@@ -154,11 +126,14 @@ flip chart
 
 ---
 
-![](pics/triangles.jpg)
+![](pics/wood1.jpg)
 # The Game of Triangles
 
-^Secretly pick two friends. Move around the room so that you and your two friends form the points of an equilateral triangle. Continue until everyone stops moving.
-Debrief: What did that feel like? What would that have been like if you could only move when and where your manager tells you to?
+Secretly pick two friends. 
+Move around the room so that you and your two friends form the points of an equilateral triangle. 
+Continue until everyone stops moving.
+
+^Debrief: What did that feel like? What would that have been like if you could only move when and where your manager tells you to?
 
 ---
 
