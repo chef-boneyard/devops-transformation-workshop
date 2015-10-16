@@ -6,10 +6,10 @@ slidenumbers: true
 Main sections are single hash.
 Sub sections are double hash.
 talking points are listed on the slides as +
-additional comments are linked within the slides. see [Link Example](/linkexample.md) 
+Additional concepts and detail are linked within the slides. see [Link Example](/linkexample.md) 
 We create an agenda separately from this file as it changes with every session (which is ok).
-4 kinds of slides... Structure, Content, Activity, Concepts --> Each have a common layout and structure.
-
+5 kinds of slides... Structure, Content, Activity, Concepts, Tools --> Each have a common layout and structure.
+Talking points are now visible on the slides. We dont refer to the slides, they're just backgrounds and the text wont distract. Also - it allows us to easily send out a PDF of the slides with some actual content. 
 
 
 # [fit] DevOps Acceleration Workshop
@@ -96,7 +96,7 @@ Write on a flip chart, do this every day
 ^Learning outcome --> Understand the impact of organizational structure on performance, quality and innovation.
 
 ![](pics/glass2.jpg)
-# Organisations: Conway's Law
+# Teams: Conway's Law
 
 + Organisational structure is history not strategy
 + Silos beget Supervisors, Supervisors beget process
@@ -106,28 +106,27 @@ Write on a flip chart, do this every day
 ---
 
 ![](pics/glass3.jpg)
-# Industry: Brave New World
+# Themes: Brave New World
 
 + 21st Century Work & the Pragmatist hacker ethos
 + Software is eating the world
 + Velocity Hedgehogs & Compliance foxes
 
-
 ---
 
 ![](pics/glass1.jpg)
-# What _exactly_ is DevOps?
+# Themes: What _exactly_ is DevOps?
 
-+ From Ohno, to Agile, to now
++ Ohno and Lean
++ Kaizen and Kaikaku
++ Lean Software Development and Agile
++ XP, Continuous Delivery and other flavours
 + Automate all the things, discuss the rest
-+ Lean Software Development, XP, Continuous Delivery
-+ Kaizen/Kaikaku
-+ Lean Teams
 
 ---
 
 ![](pics/wood1.jpg)
-# The Game of Triangles
+# Activity - The Game of Triangles
 
 Secretly pick two friends. 
 Move around the room so that you and your two friends form the points of an equilateral triangle. 
@@ -137,73 +136,85 @@ Continue until everyone stops moving.
 
 ---
 
-# The Two Product Principle
+![](pics/plastic1.jpg)
+# Tools: The Two Product Principle
 
-^ Kaizen improvements e.g. automate infrastructure, increase test coverage & Customer Value
-Solving one customer problem while building your capacity to improve...
++ We build to Ship.
++ We Ship to Learn.
++ We Learn to Build.
+
+---
+![](pics/paint1.jpg)
+
+# You're always iterating two products - one for your customer and one for your organisation. 
 
 ---
 
-![](pics/holyshit.jpg)
-# A Holy Sh!t Moment
+![](pics/glass2.jpg)
+# Themes: A Holy Sh!t Moment
+
++ Remember the 2 Product Principle
++ What are your Target Conditions?
++ What is your customer's target condition?
 
 ---
 
-# Talking to Customers
+![](pics/glass3.jpg)
 
-^ product + practise.
-Customer interviews - go over validating your assumptions - foreshadowing day 2
+## Themes: Strategy as Conversation
+
++ Product + practise.
++ Validate your assumptions measurably
 
 ---
 
-![](pics/backtothefuture.jpg)
-# Activity 3 - The Remember the Future Game
+![](pics/wood1.jpg)
+## Activity -  'Remember the Future' 
 
 ^ dot rank attributes to become target conditions
 
 ---
 
-![](pics/earthcentric.jpg)
-# Resolving Theory with Action
+![](pics/glass1.jpg)
+# Themes: Resolving Theory with Action
 
-^
 + Specializing generalists
-+ Scale is not your problem
++ Scale is not your problem until it is. 
++ Don't Anticipate solutions
 
 ---
 
+![](pics/paint1.jpg)
 
-![fit](pics/j2.jpg)
-# IOTA
-## Building a J2 Product Sheet
-
-^ Describe the IOTA model, train to build the sheet
+# Target those conditions you need to improve and iterate in the same way you would for a software product
+ 
 
 ---
 
-![fit](pics/cruciblecurve.jpg)
-# The Crucible  - Set Up
-## ROAR (Rest, Orient, Act, Reflect)
+![](pics/plastic1.jpg)
+# Tools: IOTA
 
-+ 4 rounds of crucible
-+ 15 minutes reflection
-+ 1 and 15mins content
-+ 15 minute break
++ Building a J2 Product Sheet
++ Assumptions, Parameters, Target Conditions & Measures 
+
+---
+
+![](pics/wood1.jpg)
+# Activity - The Crucible
+
++ Rest: 3 minutes
++ Orient: 2 minutes
++ Act: 5 minutes
++ Reflect: 5 minutes
 
 ^ ROAR (Rest 5mins, Orient 5mins, Act 3mins (it's on the J2, ready to ship), Reflect 2mins)
 collect J2 sheets from each team at the end - teams must build new J2s with each iteration
 
----
-
-![](pics/crucible.jpg)
-# The Crucible  - Round 1
-
-^ 4 rounds of ROAR
 
 ---
 
-![right](pics/industry.jpg)
-# The Maker Cycle - Generative Change
+![](pics/glass2.jpg)
+# Themes: The Maker Cycle - Generative Change
 ^
 + Consistency
 + Velocity
@@ -213,18 +224,9 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 ---
 
-![](pics/crucible.jpg)
-# The Crucible  - Round 2
+![](pics/glass3.jpg)
+## Teams: High Performance Teams
 
-^ 4 rounds of ROAR
-
----
-
-![](pics/o-UNICORN-ARMY-facebook.jpg)
-## High Performance Teams
-###Team Practices, Ceremonies, & Cadence
-
-^
 + Shared metaphor
 + Team Charter
 + Regular (Monthly or whatever the project requires) Architecture/Project Review -
@@ -236,73 +238,42 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 ---
 
-# ELSA
+![](pics/plastic1.jpg)
+# Tools: ELSA
 
-^
-+ Operating Chasm
-+ ELSA
++ Crossing the Operating Chasm
++ Event, Language, Structure, Agency
 
----
-
-# Day 3
 
 ---
 
-![](pics/history.jpg)
-## Agenda Day Three
+![](pics/paint1.jpg)
 
-+ _*The Crucible (Refining The Holy Shit Moment MVP)*_
-+ _*Building a DevOps Coaching Practice*_
-+ _*Presentations*_
-+ _*Retrospective*_
-+ _*Closing*_
+# Events change organisations, not people. Create a language of possibility that overwhelms the silo
 
 ---
 
-![](pics/crash.jpg)
+![](pics/glass2.jpg)
 
-# Working Agreements
+# Teams: The Coaching Practice
 
----
-
-![](pics/crucible.jpg)
-# The Crucible  - Round 1
-
----
-
-![](pics/crucible.jpg)
-# The Crucible  - Round 2
-
----
-
-# The Coaching Practice
-
-^ facilitation, training, mentorship, coaching
-This is where we get real about team interactions, because we are about to send them into the crucible. Lean Principle of
-Respect for people (Humanity), the 'why' of respect. The #hugops (Justin hates 'hugops') conversation.
-The closer you are to the line of execution the more difficult it is.
++ Why you're all coaches
++ The Four Stances of Coaching
 + 4 player model
 + 6 thinking hats
 + Satir Change Model
 
 ---
 
-# Coaching Cohort and Community of Practice
+![](pics/glass3.jpg)
+
+# Teams: Building a Community of Practice
+
++ De-Centre your Excellence
 
 ---
 
-![](pics/crucible.jpg)
-# The Crucible  - Round 3
-
----
-
-# Presentations
-
-^ Prep, Rehearse, Deliver (1 hr)
-
----
-
-# Retrospective
+this slide intentionally left blank. 
 
 ---
 
@@ -337,8 +308,8 @@ The closer you are to the line of execution the more difficult it is.
 
 ---
 
-![](pics/six-thinking-hats.jpg)
-## 6 Thinking Hats
+![](pics/plastic1.jpg)
+## Tools: 6 Thinking Hats
 
 + White - Data, Facts, Information - Rational
 + Red - Feelings, hunches - Intuitive
@@ -349,9 +320,9 @@ The closer you are to the line of execution the more difficult it is.
 
 ---
 
-# 4 Player Model
+![](pics/plastic1.jpg)
+## Tools: 4 Player Model
 
-^
 + Bystand
 + Move
 + Oppose
@@ -359,6 +330,8 @@ The closer you are to the line of execution the more difficult it is.
 
 ---
 
-![fit](pics/break-all-of-the-things-eeaa02.png)
+![](pics/metal1.jpg)
+
+## BREAK
 
 ^Break slide, put it up during breaks
