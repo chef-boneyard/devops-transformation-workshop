@@ -15,7 +15,7 @@ Talking points are now visible on the slides. We dont refer to the slides, they'
 # [fit] DevOps Acceleration Workshop
 
 ---
-![](pics/wood1.JPG)
+![](pics/paint5.JPG)
 ## Activity - Constellation Questions
 
 - I believe this workshop will be valuable.
@@ -41,7 +41,7 @@ Director Learning and Development CHEF
 
 ---
 
-![](pics/metal1.JPG)
+![](pics/paint1.JPG)
 # What's the Big Idea?
 
 + DevOps is a union of tools, practices and culture.
@@ -51,7 +51,7 @@ Director Learning and Development CHEF
 
 ---
 
-![](pics/metal1.JPG)
+![](pics/paint1.JPG)
 # What to Expect...
 
 + Overview of the new world.
@@ -61,7 +61,7 @@ Director Learning and Development CHEF
 
 ---
 
-![](pics/metal1.JPG)
+![](pics/paint1.JPG)
 # What (more) to Expect...
 
 + Iteratively and incrementally build our product pitch.
@@ -75,7 +75,7 @@ Director Learning and Development CHEF
 # Your _capability to build will improve continually_ as you deliver value to the customer.
 
 ---
-![](pics/metal1.JPG)
+![](pics/paint1.JPG)
 
 ## Working Agreements
 
@@ -84,7 +84,7 @@ Write on a flip chart, do this every day
 
 ---
 
-![](pics/glass1.jpg)
+![](pics/paint6.jpg)
 # Tools: Episteme & Technae
 
 + Tools are awesome. DevOps is not just about tools.
@@ -95,7 +95,7 @@ Write on a flip chart, do this every day
 
 ^Learning outcome --> Understand the impact of organizational structure on performance, quality and innovation.
 
-![](pics/glass2.jpg)
+![](pics/paint7.jpg)
 # Teams: Conway's Law
 
 + Organisational structure is history not strategy
@@ -105,7 +105,7 @@ Write on a flip chart, do this every day
 
 ---
 
-![](pics/glass3.jpg)
+![](pics/paint8.jpg)
 # Themes: Brave New World
 
 + 21st Century Work & the Pragmatist hacker ethos
@@ -114,7 +114,7 @@ Write on a flip chart, do this every day
 
 ---
 
-![](pics/glass1.jpg)
+![](pics/paint8.jpg)
 # Themes: What _exactly_ is DevOps?
 
 + Ohno and Lean
@@ -125,7 +125,7 @@ Write on a flip chart, do this every day
 
 ---
 
-![](pics/wood1.jpg)
+![](pics/paint2.jpg)
 # Activity - The Game of Triangles
 
 Secretly pick two friends. 
@@ -136,7 +136,7 @@ Continue until everyone stops moving.
 
 ---
 
-![](pics/plastic1.jpg)
+![](pics/paint6.jpg)
 # Tools: The Two Product Principle
 
 + We build to Ship.
@@ -150,7 +150,7 @@ Continue until everyone stops moving.
 
 ---
 
-![](pics/glass2.jpg)
+![](pics/paint8.jpg)
 # Themes: A Holy Sh!t Moment
 
 + Remember the 2 Product Principle
@@ -159,7 +159,7 @@ Continue until everyone stops moving.
 
 ---
 
-![](pics/glass3.jpg)
+![](pics/paint8.jpg)
 
 ## Themes: Strategy as Conversation
 
@@ -168,14 +168,14 @@ Continue until everyone stops moving.
 
 ---
 
-![](pics/wood1.jpg)
+![](pics/paint2.jpg)
 ## Activity -  'Remember the Future' 
 
 ^ dot rank attributes to become target conditions
 
 ---
 
-![](pics/glass1.jpg)
+![](pics/paint8.jpg)
 # Themes: Resolving Theory with Action
 
 + Specializing generalists
@@ -191,7 +191,7 @@ Continue until everyone stops moving.
 
 ---
 
-![](pics/plastic1.jpg)
+![](pics/paint6.jpg)
 # Tools: IOTA
 
 + Building a J2 Product Sheet
@@ -199,7 +199,7 @@ Continue until everyone stops moving.
 
 ---
 
-![](pics/wood1.jpg)
+![](pics/paint2.jpg)
 # Activity - The Crucible
 
 + Rest: 3 minutes
@@ -213,7 +213,7 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 ---
 
-![](pics/glass2.jpg)
+![](pics/paint8.jpg)
 # Themes: The Maker Cycle - Generative Change
 ^
 + Consistency
@@ -224,7 +224,7 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 ---
 
-![](pics/glass3.jpg)
+![](pics/paint7.jpg)
 ## Teams: High Performance Teams
 
 + Shared metaphor
@@ -238,7 +238,7 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 ---
 
-![](pics/plastic1.jpg)
+![](pics/paint6.jpg)
 # Tools: ELSA
 
 + Crossing the Operating Chasm
@@ -253,7 +253,7 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 ---
 
-![](pics/glass2.jpg)
+![](pics/paint7.jpg)
 
 # Teams: The Coaching Practice
 
@@ -265,7 +265,7 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 ---
 
-![](pics/glass3.jpg)
+![](pics/paint7.jpg)
 
 # Teams: Building a Community of Practice
 
