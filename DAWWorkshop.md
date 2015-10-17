@@ -3,6 +3,7 @@ footer: CHEF DAW, 2015
 slidenumbers: true
 
 ^ Style guide: 
+use Zurich blue theme in Deckset
 Main sections are single hash.
 Sub sections are double hash.
 talking points are listed on the slides as +
@@ -11,7 +12,7 @@ We create an agenda separately from this file as it changes with every session (
 5 kinds of slides... Structure, Content, Activity, Concepts, Tools --> Each have a common layout and structure.
 Talking points are now visible on the slides. We dont refer to the slides, they're just backgrounds and the text wont distract. Also - it allows us to easily send out a PDF of the slides with some actual content. 
 
-![](pics/paint5.JPG)
+![](pics/paint1.JPG)
 # [fit] DevOps Acceleration Workshop
 
 ---
@@ -85,7 +86,7 @@ Write on a flip chart, do this every day
 ---
 
 ![](pics/paint2.jpg)
-# Tools: Episteme & Technae
+# [Tools: Episteme & Technae](toolsconcepts.md)
 
 + Tools are awesome. DevOps is not just about tools.
 + Knowing your craft and being part of a movement gets the most out of them.
@@ -95,8 +96,8 @@ Write on a flip chart, do this every day
 
 ^Learning outcome --> Understand the impact of organizational structure on performance, quality and innovation.
 
-![](pics/paint7.jpg)
-# Teams: Conway's Law
+![](pics/plastic3.jpg)
+# [Teams: Conway's Law](conwayconcepts.md)
 
 + Organisational structure is history not strategy
 + Silos beget Supervisors, Supervisors beget process
@@ -106,7 +107,7 @@ Write on a flip chart, do this every day
 ---
 
 ![](pics/plastic3.jpg)
-# Themes: Brave New World
+# [Themes: Brave New World](braveconcepts.md)
 
 + 21st Century Work & the Pragmatist hacker ethos
 + Software is eating the world
@@ -115,7 +116,7 @@ Write on a flip chart, do this every day
 ---
 
 ![](pics/plastic3.jpg)
-# Themes: What _exactly_ is DevOps?
+# [Themes: What _exactly_ is DevOps?](devops.md)
 
 + Ohno and Lean
 + Kaizen and Kaikaku
@@ -126,7 +127,7 @@ Write on a flip chart, do this every day
 ---
 
 ![](pics/door2.jpg)
-# Activity - The Game of Triangles
+## Activity - The Game of Triangles
 
 Secretly pick two friends. 
 Move around the room so that you and your two friends form the points of an equilateral triangle. 
@@ -137,7 +138,7 @@ Continue until everyone stops moving.
 ---
 
 ![](pics/paint2.jpg)
-# Tools: The Two Product Principle
+# [Tools: The Two Product Principle](product.md)
 
 + We build to Ship.
 + We Ship to Learn.
@@ -151,7 +152,7 @@ Continue until everyone stops moving.
 ---
 
 ![](pics/plastic3.jpg)
-# Themes: A Holy Sh!t Moment
+# [Themes: A Holy Sh!t Moment](holyconcepts.md)
 
 + Remember the 2 Product Principle
 + What are your Target Conditions?
@@ -161,7 +162,7 @@ Continue until everyone stops moving.
 
 ![](pics/plastic3.jpg)
 
-## Themes: Strategy as Conversation
+# [Themes: Strategy as Conversation](strategyconcepts.md)
 
 + Product + practise.
 + Validate your assumptions measurably
@@ -176,7 +177,7 @@ Continue until everyone stops moving.
 ---
 
 ![](pics/plastic3.jpg)
-# Themes: Resolving Theory with Action
+# [Themes: Resolving Theory with Action](theoryconcepts.md)
 
 + Specializing generalists
 + Scale is not your problem until it is. 
@@ -192,7 +193,7 @@ Continue until everyone stops moving.
 ---
 
 ![](pics/paint2.jpg)
-# Tools: IOTA
+# [Tools: IOTA](iota.md)
 
 + Building a J2 Product Sheet
 + Assumptions, Parameters, Target Conditions & Measures 
@@ -200,7 +201,7 @@ Continue until everyone stops moving.
 ---
 
 ![](pics/door2.jpg)
-# Activity - The Crucible
+## Activity - The Crucible
 
 + Rest: 3 minutes
 + Orient: 2 minutes
@@ -214,7 +215,7 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 ---
 
 ![](pics/plastic3.jpg)
-# Themes: The Maker Cycle - Generative Change
+# [Themes: The Maker Cycle - Generative Change](makerconcepts.md)
 
 + Consistency
 + Velocity
@@ -224,8 +225,8 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 ---
 
-![](pics/paint7.jpg)
-## Teams: High Performance Teams
+![](pics/plastic3.jpg)
+# [Teams: High Performance Teams](teamconcepts.md)
 
 + Shared metaphor
 + Team Charter
@@ -239,7 +240,7 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 ---
 
 ![](pics/paint2.jpg)
-# Tools: ELSA
+# [Tools: ELSA](elsaconcepts.md)
 
 + Crossing the Operating Chasm
 + Event, Language, Structure, Agency
@@ -253,9 +254,9 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 ---
 
-![](pics/paint7.jpg)
+![](pics/plastic3.jpg)
 
-# Teams: The Coaching Practice
+# [Teams: The Coaching Practice](coachingconcepts.md)
 
 + Why you're all coaches
 + The Four Stances of Coaching
@@ -265,9 +266,9 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 ---
 
-![](pics/paint7.jpg)
+![](pics/plastic3.jpg)
 
-# Teams: Building a Community of Practice
+# [Teams: Building a Community of Practice](copconcepts.md)
 
 + De-Centre your Excellence
 
@@ -308,7 +309,7 @@ this slide intentionally left blank.
 
 ---
 
-![](pics/plastic1.jpg)
+![](pics/plastic3.jpg)
 ## Tools: 6 Thinking Hats
 
 + White - Data, Facts, Information - Rational
@@ -320,7 +321,7 @@ this slide intentionally left blank.
 
 ---
 
-![](pics/plastic1.jpg)
+![](pics/plastic3.jpg)
 ## Tools: 4 Player Model
 
 + Bystand
@@ -330,7 +331,7 @@ this slide intentionally left blank.
 
 ---
 
-![](pics/metal1.jpg)
+![](pics/plastic3.jpg)
 
 ## BREAK
 
