@@ -86,7 +86,9 @@ Write on a flip chart, do this every day
 ---
 
 ![](pics/paint2.jpg)
-# [Tools: Episteme & Technae](toolsconcepts.md)
+# [Tools: Episteme & Technae](#tools)
+<a name="to_tools"/>
+
 
 + Tools are awesome. DevOps is not just about tools.
 + Knowing your craft and being part of a movement gets the most out of them.
@@ -97,7 +99,9 @@ Write on a flip chart, do this every day
 ^Learning outcome --> Understand the impact of organizational structure on performance, quality and innovation.
 
 ![](pics/plastic3.jpg)
-# [Teams: Conway's Law](conwayconcepts.md)
+# [Teams: Conway's Law](#conway)
+<a name="to_conway"/>
+
 
 + Organisational structure is history not strategy
 + Silos beget Supervisors, Supervisors beget process
@@ -107,7 +111,7 @@ Write on a flip chart, do this every day
 ---
 
 ![](pics/plastic3.jpg)
-# [Themes: Brave New World](braveconcepts.md)
+# [Themes: Brave New World](#brave)
 
 + 21st Century Work & the Pragmatist hacker ethos
 + Software is eating the world
@@ -116,7 +120,8 @@ Write on a flip chart, do this every day
 ---
 
 ![](pics/plastic3.jpg)
-# [Themes: What _exactly_ is DevOps?](devops.md)
+# [Themes: What _exactly_ is DevOps?](#devops)
+<a name="to_devops"/>
 
 + Ohno and Lean
 + Kaizen and Kaikaku
@@ -138,7 +143,8 @@ Continue until everyone stops moving.
 ---
 
 ![](pics/paint2.jpg)
-# [Tools: The Two Product Principle](product.md)
+# [Tools: The Two Product Principle](#product)
+<a name="to_product"/>
 
 + We build to Ship.
 + We Ship to Learn.
@@ -152,7 +158,8 @@ Continue until everyone stops moving.
 ---
 
 ![](pics/plastic3.jpg)
-# [Themes: A Holy Sh!t Moment](holyconcepts.md)
+# [Themes: A Holy Sh!t Moment](#holy)
+<a name="to_holy"/>
 
 + Remember the 2 Product Principle
 + What are your Target Conditions?
@@ -161,8 +168,8 @@ Continue until everyone stops moving.
 ---
 
 ![](pics/plastic3.jpg)
-
-# [Themes: Strategy as Conversation](strategyconcepts.md)
+# [Themes: Strategy as Conversation](#strategy)
+<a name="to_strategy"/>
 
 + Product + practise.
 + Validate your assumptions measurably
@@ -177,7 +184,8 @@ Continue until everyone stops moving.
 ---
 
 ![](pics/plastic3.jpg)
-# [Themes: Resolving Theory with Action](theoryconcepts.md)
+# [Themes: Resolving Theory with Action](#theory)
+<a name="to_theory"/>
 
 + Specializing generalists
 + Scale is not your problem until it is. 
@@ -193,7 +201,8 @@ Continue until everyone stops moving.
 ---
 
 ![](pics/paint2.jpg)
-# [Tools: IOTA](iota.md)
+# [Tools: IOTA](#iota)
+<a name="to_iota"/>
 
 + Building a J2 Product Sheet
 + Assumptions, Parameters, Target Conditions & Measures 
@@ -215,7 +224,8 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 ---
 
 ![](pics/plastic3.jpg)
-# [Themes: The Maker Cycle - Generative Change](makerconcepts.md)
+# [Themes: The Maker Cycle - Generative Change](#maker)
+<a name="to_maker"/>
 
 + Consistency
 + Velocity
@@ -226,7 +236,8 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 ---
 
 ![](pics/plastic3.jpg)
-# [Teams: High Performance Teams](teamconcepts.md)
+# [Teams: High Performance Teams](#team)
+<a name="to_team"/>
 
 + Shared metaphor
 + Team Charter
@@ -240,7 +251,8 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 ---
 
 ![](pics/paint2.jpg)
-# [Tools: ELSA](elsaconcepts.md)
+# [Tools: ELSA](#elsa)
+<a name="to_elsa"/>
 
 + Crossing the Operating Chasm
 + Event, Language, Structure, Agency
@@ -256,7 +268,8 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 ![](pics/plastic3.jpg)
 
-# [Teams: The Coaching Practice](coachingconcepts.md)
+# [Teams: The Coaching Practice](#coaching)
+<a name="to_coaching"/>
 
 + Why you're all coaches
 + The Four Stances of Coaching
@@ -268,7 +281,8 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 ![](pics/plastic3.jpg)
 
-# [Teams: Building a Community of Practice](copconcepts.md)
+# [Teams: Building a Community of Practice](#cop)
+<a name="to_cop"/>
 
 + De-Centre your Excellence
 
@@ -278,34 +292,7 @@ this slide intentionally left blank.
 
 ---
 
-# Errata
-
----
-> precisely specify value by specific product... make value flow without interruptions, let the customer pull value from the producer, and pursue perfection.
--- Womack & Jones
-
-^Quote Slide - put it up during an exercise
-
----
-
-> Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
--- Agile Principles
-
-^Quote Slide - put it up during an exercise
-
----
-
-> The longer it takes to get feedback the greater the effort required to make the change.
--- Someone Special
-
-^Quote Slide - put it up during an exercise
-
----
-
-> We convert fear into joy through surprise
--- anon
-
-^ the power of adaptive learning
+# Tools
 
 ---
 
@@ -336,3 +323,124 @@ this slide intentionally left blank.
 ## BREAK
 
 ^Break slide, put it up during breaks
+
+---
+<a name="tools"/>
+## More about Tools
+[back](#to_tools)
+
+---
+<a name="conway"/>
+## More about Organisation
+[back](#to_conway)
+
+---
+<a name="brave"/>
+## More about the Brave New World
+[back](#to_brave)
+
+---
+<a name="devops"/>
+## More about DevOps
+[back](#to_devops)
+
+
+---
+<a name="product"/>
+## More about Product
+[back](#to_product)
+
+
+---
+<a name="holy"/>
+### the holy shit moment...
+[back](#to_holy)
+
+
+---
+<a name="strategy"/>
+## More about Strategy
+[back](#to_strategy)
+
+---
+<a name="theory"/>
+## More about Resolving Theory with Action
+[back](#to_theory)
+
+
+---
+<a name="iota"/>
+## The IOTA framework
+[back](#to_iota)
+
+
+---
+
+<a name="maker"/>
+## More about the Maker Cycle
+[back](#to_maker)
+
+
+---
+<a name="elsa"/>
+## More about ELSA
+[back](#to_elsa)
+
+---
+<a name="team"/>
+## More about Teams
+[back](#to_team)
+
+
+---
+<a name="coaching"/>
+## More about Coaching
+[back](#to_coaching)
+
+---
+<a name="cop"/>
+## More about Communities of Practise
+[back](#to_cop)
+
+---
+
+# Extra
+
+---
+> precisely specify value by specific product... make value flow without interruptions, let the customer pull value from the producer, and pursue perfection.
+-- Womack & Jones
+
+^Quote Slide - put it up during an exercise
+
+---
+
+> Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+-- Agile Principles
+
+^Quote Slide - put it up during an exercise
+
+---
+
+> The longer it takes to get feedback the greater the effort required to make the change.
+-- Someone Special
+
+^Quote Slide - put it up during an exercise
+
+---
+
+> We convert fear into joy through surprise
+-- anon
+
+^ the power of adaptive learning
+
+---
+
+
+
+
+
+
+
+
+
+
