@@ -3,7 +3,7 @@ footer: CHEF DAW, 2015
 slidenumbers: true
 
 ^ Style guide: 
-use Zurich blue theme in Deckset
+use sketchnote yellow theme in Deckset
 Main sections are single hash.
 Sub sections are double hash.
 talking points are listed on the slides as +
@@ -86,13 +86,17 @@ Write on a flip chart, do this every day
 ---
 
 ![](pics/paint2.jpg)
-# [Tools: Episteme & Technae](#tools)
+# [Tools: Episteme, Phronesis & Technae](#tools)
 <a name="to_tools"/>
 
+You're not in the middle of a tool revolution... you're in the middle of a _craft_ revolution.
 
-+ Tools are awesome. DevOps is not just about tools.
-+ Knowing your craft and being part of a movement gets the most out of them.
-+ You're not in the middle of a tool revolution... you're in the middle of a _craft_ revolution.
++ Episteme is your knowledge 
+--> you get that from training (hopefully today)
++ Technae is the use of that knowledge to make things 
+--> you get that from mentorship (from eachother)
++ Phronesis is practical wisdom that creates _praxis_ 
+--> you get that from and by coaching
 
 ---
 
@@ -102,11 +106,10 @@ Write on a flip chart, do this every day
 # [Teams: Conway's Law](#conway)
 <a name="to_conway"/>
 
-
 + Organisational structure is history not strategy
 + Silos beget Supervisors, Supervisors beget process
-+ Move to Metcalf! What is your Dunbar number?
 + Only small, entrepreneurial teams have the context for defining quality and 'done'.
++ Highly Reliable Organisations
 
 ---
 
@@ -334,10 +337,44 @@ this slide intentionally left blank.
 ## More about Organisation
 [back](#to_conway)
 
++ Dunbar Numbers
++ Metcalf's Law
+
+---
+<a name="conway"/>
+[back](#to_conway)
+###Highly Reliable Organisations
+
++ Sensitive to Operations
++ Sensitive to Small Failures
++ Defer to Expertise
++ Obsessed with Resilience
+
+---
+<a name="conway"/>
+[back](#to_conway)
+###Anti - Fragility  (Nassim Taleb)
+
+
+
 ---
 <a name="brave"/>
 ## More about the Brave New World
 [back](#to_brave)
+
++ What is Pragmatism? 
+
+
+---
+<a name="brave"/>
+### 21st Century Value Exchange
+[back](#to_brave)
+
++ Velocity 
++ Density
++ Granularity
++ Agency
++ Abstraction
 
 ---
 <a name="devops"/>
