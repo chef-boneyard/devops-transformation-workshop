@@ -2,38 +2,48 @@ autoscale: true
 footer: CHEF DAW, 2015
 slidenumbers: true
 
-![](pics/accelerate.jpg)
+^ Style guide: 
+use sketchnote yellow theme in Deckset
+Main sections are single hash.
+Sub sections are double hash.
+talking points are listed on the slides as +
+Additional concepts and detail are linked within the slides. see [Link Example](/linkexample.md) 
+We create an agenda separately from this file as it changes with every session (which is ok).
+5 kinds of slides... Structure, Content, Activity, Concepts, Tools --> Each have a common layout and structure.
+Talking points are now visible on the slides. We dont refer to the slides, they're just backgrounds and the text wont distract. Also - it allows us to easily send out a PDF of the slides with some actual content. 
+
+![](pics/paint1.JPG)
 # [fit] DevOps Acceleration Workshop
 
 ---
+![](pics/door2.JPG)
+## Activity - Constellation Questions
 
-![](pics/Constellation-Scorpius.JPG)
-## Activity 1 - Constellation Questions
-
-+ I believe this workshop will be valuable.
-+ When stressed, I like to be given clear directions.
-+ When stressed, I like to create order.
-+ I have a clear vision of how DevOps will unlock my awesome.
+- I believe this workshop will be valuable.
+- When stressed, I like to be given clear directions.
+- When stressed, I like to create order.
+- I have a clear vision of how DevOps will unlock my awesome.
 
 ^ Opening exercise, begins when group assembles. We will do intros and working agreements after self-organising.
 
 ---
 
-![](pics/JA2.JPG)
-![](pics/jeff_hackert.JPG)
+![left](pics/JA2.JPG)
+![right](pics/jeff_hackert.JPG)
 
-# Justin Arbuckle
-## VP EMEA, Chief Enterprise Architect
-### @dromologue / ja@chef.io
+Justin Arbuckle
+VP Worldwide Transformation, Chief Architect - CHEF
+@dromologue / ja@chef.io
 
-# Jeff Hackert
-## Director Learning and Development
-### @jchackert / jhackert@chef.io / spacemonkeypants (LoL)
+
+Jeff Hackert
+Director Coaching - CHEF
+@jchackert / jhackert@chef.io / spacemonkeypants (LoL)
 
 ---
 
-![](pics/dinnertable.JPG)
-## What's the Big Idea?
+![](pics/paint1.JPG)
+# What's the Big Idea?
 
 + DevOps is a union of tools, practices and culture.
 + Software development is new product development.
@@ -42,194 +52,184 @@ slidenumbers: true
 
 ---
 
-## What to Expect.
+![](pics/paint1.JPG)
+# What to Expect...
 
 + Overview of the new world.
 + History of DevOps (Agile, Lean, Continuous Delivery).
 + Aquire tools for working in the new way - Lean/Agile/CD.
 + Identify an MVP for a project you can deliver in 6 weeks (product and practice).
+
+---
+
+![](pics/paint1.JPG)
+# What (more) to Expect...
+
 + Iteratively and incrementally build our product pitch.
 + Identify areas of waste, blockages or frustration in your current practise...
 + Remediate these within the project by evolving your practise;
 
 ---
 
+![](pics/paint1.JPG)
+
 # Your _capability to build will improve continually_ as you deliver value to the customer.
 
 ---
-![](pics/history.jpg)
-## Agenda Day One
+![](pics/paint1.JPG)
 
-+ _*Opening & Working Agreements*_
-+ _*Brave New World I*_  
-+ _*Brave New World II*_
-+ _*Back to the Future*_
-+ _*Closing*_
-
-^ Introductions, who are you? what team?, what value?
-
----
-
-![](pics/crash.jpg)
-# Working Agreements
+## Working Agreements
 
 ^Go over breaks, cell phone and laptop use, how we will engage with each other, etc.
 Write on a flip chart, do this every day
 
 ---
 
-![](pics/knife1.jpg)
-# Episteme & Technae
+![](pics/paint2.jpg)
+# [Tools: Episteme, Phronesis & Technae](#tools)
+<a name="to_tools"/>
 
-^
-+ Tools are awesome. DevOps is not just about tools.
-+ Knowing your craft and being part of a movement gets the most out of them.
-+ You're not in the middle of a tool revolution... you're in the middle of a _craft_ revolution.
+You're not in the middle of a tool revolution... you're in the middle of a _craft_ revolution.
+
++ Episteme is your knowledge 
+--> you get that from training (hopefully today)
++ Technae is the use of that knowledge to make things 
+--> you get that from mentorship (from eachother)
++ Phronesis is practical wisdom that creates _praxis_ 
+--> you get that from and by coaching
 
 ---
 
 ^Learning outcome --> Understand the impact of organizational structure on performance, quality and innovation.
 
-![](pics/silo.jpg)
-# Conway's Law
+![](pics/plastic3.jpg)
+# [Teams: Conway's Law](#conway)
+<a name="to_conway"/>
 
-^
-+ org structure is history not strategy
-+ Silos beget Supervisors, Supervision without context makes you slow and stupid.
-+ Move to Metcalf! What is your Dunbar number?
-+ Small, entrepreneurial teams have context for defining quality and 'done'.
-
----
-
-# Activity 2 - Conway's Law
-
-^ In your teams, discuss some examples of how you see Conway's Law at work in your organisation.
++ Organisational structure is history not strategy
++ Silos beget Supervisors, Supervisors beget process
++ Only small, entrepreneurial teams have the context for defining quality and 'done'.
++ Highly Reliable Organisations
 
 ---
 
-![](pics/handf.jpg)
-# Brave New World
+![](pics/plastic3.jpg)
+# [Themes: Brave New World](#brave)
 
-^
-+ 21st Century Work --> Pragmatist hacker ethos
-+ software is eating the world
-+ Velocity is the new Hedgehog.
-+ Compliance is the new fox.
++ 21st Century Work & the Pragmatist hacker ethos
++ Software is eating the world
++ Velocity Hedgehogs & Compliance foxes
 
 ---
 
-# Day 2
+![](pics/plastic3.jpg)
+# [Themes: What _exactly_ is DevOps?](#devops)
+<a name="to_devops"/>
 
----
-
-![](pics/history.jpg)
-## Agenda Day Two
-
-+ _*Opening & Working Agreements*_
-+ _*The Crucible (Building The Holy Shit Moment MVP)*_
-+ _*Continuous & Generative Improvement*_
-+ _*High Performance Teams (Doing the DevOps)*_
-+ _*ELSA (Creating and Sustaining Change)
-+ _*Closing*_
-
----
-
-![](pics/crash.jpg)
-# Working Agreements
-
-^Go over breaks, cell phone and laptop use, how we will engage with each other, etc.
-flip chart
-
----
-
-![](pics/workshop.jpg)
-# What _exactly_ is DevOps?
-
-^
-+ From Ohno, to Agile, to now
++ Ohno and Lean
++ Kaizen and Kaikaku
++ Lean Software Development and Agile
++ XP, Continuous Delivery and other flavours
 + Automate all the things, discuss the rest
-+ Lean Software Development, XP, Continuous Delivery
-+ Kaizen/Kaikaku
-+ Lean Teams
 
 ---
 
-![](pics/triangles.jpg)
-# The Game of Triangles
+![](pics/door2.jpg)
+## Activity - The Game of Triangles
 
-^Secretly pick two friends. Move around the room so that you and your two friends form the points of an equilateral triangle. Continue until everyone stops moving.
-Debrief: What did that feel like? What would that have been like if you could only move when and where your manager tells you to?
+Secretly pick two friends. 
+Move around the room so that you and your two friends form the points of an equilateral triangle. 
+Continue until everyone stops moving.
 
----
-
-# The Two Product Principle
-
-^ Kaizen improvements e.g. automate infrastructure, increase test coverage & Customer Value
-Solving one customer problem while building your capacity to improve...
+^Debrief: What did that feel like? What would that have been like if you could only move when and where your manager tells you to?
 
 ---
 
-![](pics/holyshit.jpg)
-# A Holy Sh!t Moment
+![](pics/paint2.jpg)
+# [Tools: The Two Product Principle](#product)
+<a name="to_product"/>
+
++ We build to Ship.
++ We Ship to Learn.
++ We Learn to Build.
+
+---
+![](pics/paint1.jpg)
+
+# You're always iterating two products - one for your customer and one for your organisation. 
 
 ---
 
-# Talking to Customers
+![](pics/plastic3.jpg)
+# [Themes: A Holy Sh!t Moment](#holy)
+<a name="to_holy"/>
 
-^ product + practise.
-Customer interviews - go over validating your assumptions - foreshadowing day 2
++ Remember the 2 Product Principle
++ What are your Target Conditions?
++ What is your customer's target condition?
 
 ---
 
-![](pics/backtothefuture.jpg)
-# Activity 3 - The Remember the Future Game
+![](pics/plastic3.jpg)
+# [Themes: Strategy as Conversation](#strategy)
+<a name="to_strategy"/>
+
++ Product + practise.
++ Validate your assumptions measurably
+
+---
+
+![](pics/door2.jpg)
+## Activity -  'Remember the Future' 
 
 ^ dot rank attributes to become target conditions
 
 ---
 
-![](pics/earthcentric.jpg)
-# Resolving Theory with Action
+![](pics/plastic3.jpg)
+# [Themes: Resolving Theory with Action](#theory)
+<a name="to_theory"/>
 
-^
 + Specializing generalists
-+ Scale is not your problem
++ Scale is not your problem until it is. 
++ Don't Anticipate solutions
 
 ---
 
+![](pics/paint1.jpg)
 
-![fit](pics/j2.jpg)
-# IOTA
-## Building a J2 Product Sheet
-
-^ Describe the IOTA model, train to build the sheet
+# Target those conditions you need to improve and iterate in the same way you would for a software product
+ 
 
 ---
 
-![fit](pics/cruciblecurve.jpg)
-# The Crucible  - Set Up
-## ROAR (Rest, Orient, Act, Reflect)
+![](pics/paint2.jpg)
+# [Tools: IOTA](#iota)
+<a name="to_iota"/>
 
-+ 4 rounds of crucible
-+ 15 minutes reflection
-+ 1 and 15mins content
-+ 15 minute break
++ Building a J2 Product Sheet
++ Assumptions, Parameters, Target Conditions & Measures 
+
+---
+
+![](pics/door2.jpg)
+## Activity - The Crucible
+
++ Rest: 3 minutes
++ Orient: 2 minutes
++ Act: 5 minutes
++ Reflect: 5 minutes
 
 ^ ROAR (Rest 5mins, Orient 5mins, Act 3mins (it's on the J2, ready to ship), Reflect 2mins)
 collect J2 sheets from each team at the end - teams must build new J2s with each iteration
 
----
-
-![](pics/crucible.jpg)
-# The Crucible  - Round 1
-
-^ 4 rounds of ROAR
 
 ---
 
-![right](pics/industry.jpg)
-# The Maker Cycle - Generative Change
-^
+![](pics/plastic3.jpg)
+# [Themes: The Maker Cycle - Generative Change](#maker)
+<a name="to_maker"/>
+
 + Consistency
 + Velocity
 + Scale
@@ -238,99 +238,213 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 ---
 
-![](pics/crucible.jpg)
-# The Crucible  - Round 2
+![](pics/plastic3.jpg)
+# [Teams: High Performance Teams](#team)
+<a name="to_team"/>
 
-^ 4 rounds of ROAR
-
----
-
-![](pics/o-UNICORN-ARMY-facebook.jpg)
-## High Performance Teams
-###Team Practices, Ceremonies, & Cadence
-
-^
 + Shared metaphor
 + Team Charter
-+ Regular (Monthly or whatever the project requires) Architecture/Project Review -
++ Regular Architecture/Project Review
 + Daily Stand Up
 + Bi-Weekly Backlog Grooming & Queue replenishment
 + Retrospective
 + Blameless Post Mortem
 
----
-
-# ELSA
-
-^
-+ Operating Chasm
-+ ELSA
 
 ---
 
-# Day 3
+![](pics/paint2.jpg)
+# [Tools: ELSA](#elsa)
+<a name="to_elsa"/>
+
++ Crossing the Operating Chasm
++ Event, Language, Structure, Agency
+
 
 ---
 
-![](pics/history.jpg)
-## Agenda Day Three
+![](pics/paint1.jpg)
 
-+ _*The Crucible (Refining The Holy Shit Moment MVP)*_
-+ _*Building a DevOps Coaching Practice*_
-+ _*Presentations*_
-+ _*Retrospective*_
-+ _*Closing*_
+# Events change organisations, not people. Create a language of possibility that overwhelms the silo
 
 ---
 
-![](pics/crash.jpg)
+![](pics/plastic3.jpg)
 
-# Working Agreements
+# [Teams: The Coaching Practice](#coaching)
+<a name="to_coaching"/>
 
----
-
-![](pics/crucible.jpg)
-# The Crucible  - Round 1
-
----
-
-![](pics/crucible.jpg)
-# The Crucible  - Round 2
-
----
-
-# The Coaching Practice
-
-^ facilitation, training, mentorship, coaching
-This is where we get real about team interactions, because we are about to send them into the crucible. Lean Principle of
-Respect for people (Humanity), the 'why' of respect. The #hugops (Justin hates 'hugops') conversation.
-The closer you are to the line of execution the more difficult it is.
++ Why you're all coaches
++ The Four Stances of Coaching
 + 4 player model
 + 6 thinking hats
 + Satir Change Model
 
 ---
 
-# Coaching Cohort and Community of Practice
+![](pics/plastic3.jpg)
+
+# [Teams: Building a Community of Practice](#cop)
+<a name="to_cop"/>
+
++ De-Centre your Excellence
 
 ---
 
-![](pics/crucible.jpg)
-# The Crucible  - Round 3
+this slide intentionally left blank. 
 
 ---
 
-# Presentations
-
-^ Prep, Rehearse, Deliver (1 hr)
+# Tools
 
 ---
 
-# Retrospective
+![](pics/plastic3.jpg)
+## Tools: 6 Thinking Hats
+
++ White - Data, Facts, Information - Rational
++ Red - Feelings, hunches - Intuitive
++ Black - Difficulties and potential Problems - Concern
++ Yellow - Values and benefits - The Why
++ Green - creativity, possibility, outcomes - Aspiration
++ Blue - next steps, actions, plans - Process
 
 ---
 
-# Errata
+![](pics/plastic3.jpg)
+## Tools: 4 Player Model
+
++ Bystand
++ Move
++ Oppose
++ Follow
+
+<<<<<<< HEAD
+=======
+---
+
+![](pics/plastic3.jpg)
+
+## BREAK
+
+^Break slide, put it up during breaks
+
+>>>>>>> 4513d5ce4c13c10a574d7eb47ad7ff69c51f6541
+---
+<a name="tools"/>
+## More about Tools
+[back](#to_tools)
+
+---
+<a name="conway"/>
+## More about Organisation
+[back](#to_conway)
+
++ Dunbar Numbers
++ Metcalf's Law
+
+---
+<a name="conway"/>
+[back](#to_conway)
+###Highly Reliable Organisations
+
++ Sensitive to Operations
++ Sensitive to Small Failures
++ Defer to Expertise
++ Obsessed with Resilience
+
+---
+<a name="conway"/>
+[back](#to_conway)
+###Anti - Fragility  (Nassim Taleb)
+
+
+
+---
+<a name="brave"/>
+## More about the Brave New World
+[back](#to_brave)
+
++ What is Pragmatism? 
+
+
+---
+<a name="brave"/>
+### 21st Century Value Exchange
+[back](#to_brave)
+
++ Velocity 
++ Density
++ Granularity
++ Agency
++ Abstraction
+
+---
+<a name="devops"/>
+## More about DevOps
+[back](#to_devops)
+
+
+---
+<a name="product"/>
+## More about Product
+[back](#to_product)
+
+
+---
+<a name="holy"/>
+### the holy shit moment...
+[back](#to_holy)
+
+
+---
+<a name="strategy"/>
+## More about Strategy
+[back](#to_strategy)
+
+---
+<a name="theory"/>
+## More about Resolving Theory with Action
+[back](#to_theory)
+
+
+---
+<a name="iota"/>
+## The IOTA framework
+[back](#to_iota)
+
+
+---
+
+<a name="maker"/>
+## More about the Maker Cycle
+[back](#to_maker)
+
+
+---
+<a name="elsa"/>
+## More about ELSA
+[back](#to_elsa)
+
+---
+<a name="team"/>
+## More about Teams
+[back](#to_team)
+
+
+---
+<a name="coaching"/>
+## More about Coaching
+[back](#to_coaching)
+
+---
+<a name="cop"/>
+## More about Communities of Practise
+[back](#to_cop)
+
+---
+
+# Extra
 
 ---
 > precisely specify value by specific product... make value flow without interruptions, let the customer pull value from the producer, and pursue perfection.
@@ -361,28 +475,12 @@ The closer you are to the line of execution the more difficult it is.
 
 ---
 
-![](pics/six-thinking-hats.jpg)
-## 6 Thinking Hats
 
-+ White - Data, Facts, Information - Rational
-+ Red - Feelings, hunches - Intuitive
-+ Black - Difficulties and potential Problems - Concern
-+ Yellow - Values and benefits - The Why
-+ Green - creativity, possibility, outcomes - Aspiration
-+ Blue - next steps, actions, plans - Process
 
----
 
-# 4 Player Model
 
-^
-+ Bystand
-+ Move
-+ Oppose
-+ Follow
 
----
 
-![fit](pics/break-all-of-the-things-eeaa02.png)
 
-^Break slide, put it up during breaks
+
+
