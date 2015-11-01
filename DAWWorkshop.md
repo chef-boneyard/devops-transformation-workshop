@@ -139,9 +139,8 @@ You're not in the middle of a tool revolution... you're in the middle of a _craf
 #[Tools: 2 Wizards](#wizards)
 <a name="to_wizards"/>
 
-+ Pluralistic Relationship Based
++ Pluralistic & Relationship Based
 + Results Oriented
-+ Under Stress, where do they go?
 
 ^ Results orientation vs pluralistic and relationship based
 There is really no fight here, but each has a tendency to try and convert the other.
@@ -150,9 +149,9 @@ Learn to use the language and tools of both schools - Draw the model?
 ---
 
 ## Activity - Wizard Fight
-![autoplay mute](https://youtu.be/GKm7NloL8bA?t=325)
+![autoplay mute](https://youtu.be/GKm7NloL8bA?t=125)
 
-+ Discuss: Under Stress, where do you go?
++ Discuss: In your organization, how do these two approaches compliment each other? How do they clash?
 
 ---
 
