@@ -17,6 +17,7 @@ Talking points are now visible on the slides. We don't refer to the slides, they
 # [fit] DevOps Acceleration Workshop
 
 ---
+
 ![](pics/door2.JPG)
 ## Activity - Constellation Questions
 
@@ -77,6 +78,7 @@ Director Learning and development - CHEF
 # Your _capability to build will improve continually_ as you deliver value to the customer.
 
 ---
+
 ![](pics/paint1.JPG)
 
 ## Working Agreements
