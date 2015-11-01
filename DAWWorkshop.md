@@ -2,15 +2,16 @@ autoscale: true
 footer: CHEF DAW, 2015
 slidenumbers: true
 
-^ Style guide: 
-use sketchnote yellow theme in Deckset
+^ Style guide:
+Use sketchnote yellow theme in Deckset
+New Slides begin with  \n---\n
 Main sections are single hash.
 Sub sections are double hash.
 talking points are listed on the slides as +
-Additional concepts and detail are linked within the slides. see [Link Example](/linkexample.md) 
+Additional concepts and detail are linked within the slides. see [Link Example](/linkexample.md)
 We create an agenda separately from this file as it changes with every session (which is ok).
 5 kinds of slides... Structure, Content, Activity, Concepts, Tools --> Each have a common layout and structure.
-Talking points are now visible on the slides. We dont refer to the slides, they're just backgrounds and the text wont distract. Also - it allows us to easily send out a PDF of the slides with some actual content. 
+Talking points are now visible on the slides. We don't refer to the slides, they're just backgrounds and the text wont distract. Also - it allows us to easily send out a PDF of the slides with some actual content.
 
 ![](pics/paint1.JPG)
 # [fit] DevOps Acceleration Workshop
@@ -37,7 +38,7 @@ VP Worldwide Transformation, Chief Architect - CHEF
 
 
 Jeff Hackert
-Director Coaching - CHEF
+Director Learning and development - CHEF
 @jchackert / jhackert@chef.io / spacemonkeypants (LoL)
 
 ---
@@ -91,12 +92,21 @@ Write on a flip chart, do this every day
 
 You're not in the middle of a tool revolution... you're in the middle of a _craft_ revolution.
 
-+ Episteme is your knowledge 
++ Episteme is your knowledge
 --> you get that from training (hopefully today)
-+ Technae is the use of that knowledge to make things 
++ Technae is the use of that knowledge to make things
 --> you get that from mentorship (from eachother)
-+ Phronesis is practical wisdom that creates _praxis_ 
++ Phronesis is practical wisdom that creates _praxis_
 --> you get that from and by coaching
+
+---
+
+![](pics/door2.jpg)
+## Activity - Knowledge Work
+
++ Discuss: How learning is valued on your team and in your organization?
+
+^ Get them discussing learning in their org. How safe? How valued? How recognized?
 
 ---
 
@@ -110,6 +120,36 @@ You're not in the middle of a tool revolution... you're in the middle of a _craf
 + Silos beget Supervisors, Supervisors beget process
 + Only small, entrepreneurial teams have the context for defining quality and 'done'.
 + Highly Reliable Organisations
+
+---
+
+![](pics/door2.jpg)
+## Activity - Tightly Coupled, Loosley Aligned?
+
++ Discuss: What communication styles define your org structure?
+
+^ Break into small groups (3 to 5) and play social anthropologist. What communications forces shape your organization?
+
+---
+
+![](pics/paint2.jpg)
+#[Tools: 2 Wizards](#wizards)
+<a name="to_wizards"/>
+
++ Pluralistic Relationship Based
++ Results Oriented
++ Under Stress, where do they go?
+
+^ Results orientation vs pluralistic and relationship based
+There is really no fight here, but each has a tendency to try and convert the other.
+Learn to use the language and tools of both schools - Draw the model?
+
+---
+
+## Activity - Wizard Fight
+![autoplay mute](https://youtu.be/GKm7NloL8bA?t=325)
+
++ Discuss: Under Stress, where do you go?
 
 ---
 
@@ -135,13 +175,32 @@ You're not in the middle of a tool revolution... you're in the middle of a _craf
 ---
 
 ![](pics/door2.jpg)
+## Activity - (Fr)Agile
+
++ Discuss: Which values exemplify my team?
++ Which are a struggle?
++ Which are a puzzle?
+
+---
+
+![](pics/door2.jpg)
 ## Activity - The Game of Triangles
 
-Secretly pick two friends. 
-Move around the room so that you and your two friends form the points of an equilateral triangle. 
+Secretly pick two friends.
+Move around the room so that you and your two friends form the points of an equilateral triangle.
 Continue until everyone stops moving.
 
 ^Debrief: What did that feel like? What would that have been like if you could only move when and where your manager tells you to?
+
+---
+
+![](pics/plastic3.jpg)
+# [Themes: New Product development](#product)
+<a name="to_product"/>
+
++ What Agile Leaves Out
++ Opportunities not Backlogs
++ Delighters
 
 ---
 
@@ -156,7 +215,7 @@ Continue until everyone stops moving.
 ---
 ![](pics/paint1.jpg)
 
-# You're always iterating two products - one for your customer and one for your organisation. 
+# You're always iterating two products - one for your customer and one for your organisation.
 
 ---
 
@@ -180,7 +239,7 @@ Continue until everyone stops moving.
 ---
 
 ![](pics/door2.jpg)
-## Activity -  'Remember the Future' 
+## Activity -  'Remember the Future'
 
 ^ dot rank attributes to become target conditions
 
@@ -191,7 +250,7 @@ Continue until everyone stops moving.
 <a name="to_theory"/>
 
 + Specializing generalists
-+ Scale is not your problem until it is. 
++ Scale is not your problem until it is.
 + Don't Anticipate solutions
 
 ---
@@ -199,7 +258,6 @@ Continue until everyone stops moving.
 ![](pics/paint1.jpg)
 
 # Target those conditions you need to improve and iterate in the same way you would for a software product
- 
 
 ---
 
@@ -208,7 +266,19 @@ Continue until everyone stops moving.
 <a name="to_iota"/>
 
 + Building a J2 Product Sheet
-+ Assumptions, Parameters, Target Conditions & Measures 
++ Assumptions, Parameters, Target Conditions & Measures
+
+---
+
+![](pics/paint2.jpg)
+# [Tools: Flow](#flow)
+<a name="to_flow"/>
+
++ Slow, slow, quick, quick, slow
++ Little's Law
++ Predictability
++ Measure what's important
++ Cost of Delay
 
 ---
 
@@ -250,7 +320,6 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 + Retrospective
 + Blameless Post Mortem
 
-
 ---
 
 ![](pics/paint2.jpg)
@@ -259,7 +328,6 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 + Crossing the Operating Chasm
 + Event, Language, Structure, Agency
-
 
 ---
 
@@ -291,7 +359,7 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 ---
 
-this slide intentionally left blank. 
+this slide intentionally left blank.
 
 ---
 
@@ -354,18 +422,17 @@ this slide intentionally left blank.
 + Obsessed with Resilience
 
 ---
+
 <a name="conway"/>
 [back](#to_conway)
 ###Anti - Fragility  (Nassim Taleb)
-
-
 
 ---
 <a name="brave"/>
 ## More about the Brave New World
 [back](#to_brave)
 
-+ What is Pragmatism? 
++ What is Pragmatism?
 
 
 ---
@@ -373,46 +440,52 @@ this slide intentionally left blank.
 ### 21st Century Value Exchange
 [back](#to_brave)
 
-+ Velocity 
++ Velocity
 + Density
 + Granularity
 + Agency
 + Abstraction
 
 ---
+
 <a name="devops"/>
 ## More about DevOps
 [back](#to_devops)
 
+---
+
+<a name="flow"/>
+## More about Metrics
+[back](#to_flow)
 
 ---
+
 <a name="product"/>
 ## More about Product
 [back](#to_product)
-
 
 ---
 <a name="holy"/>
 ### the holy shit moment...
 [back](#to_holy)
 
-
 ---
+
 <a name="strategy"/>
 ## More about Strategy
 [back](#to_strategy)
 
 ---
+
 <a name="theory"/>
 ## More about Resolving Theory with Action
 [back](#to_theory)
 
-
 ---
+
 <a name="iota"/>
 ## The IOTA framework
 [back](#to_iota)
-
 
 ---
 
@@ -420,24 +493,26 @@ this slide intentionally left blank.
 ## More about the Maker Cycle
 [back](#to_maker)
 
-
 ---
+
 <a name="elsa"/>
 ## More about ELSA
 [back](#to_elsa)
 
 ---
+
 <a name="team"/>
 ## More about Teams
 [back](#to_team)
 
-
 ---
+
 <a name="coaching"/>
 ## More about Coaching
 [back](#to_coaching)
 
 ---
+
 <a name="cop"/>
 ## More about Communities of Practise
 [back](#to_cop)
@@ -447,6 +522,7 @@ this slide intentionally left blank.
 # Extra
 
 ---
+
 > precisely specify value by specific product... make value flow without interruptions, let the customer pull value from the producer, and pursue perfection.
 -- Womack & Jones
 
@@ -474,13 +550,3 @@ this slide intentionally left blank.
 ^ the power of adaptive learning
 
 ---
-
-
-
-
-
-
-
-
-
-
