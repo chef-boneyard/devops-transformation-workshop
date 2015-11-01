@@ -106,7 +106,7 @@ You're not in the middle of a tool revolution... you're in the middle of a _craf
 ![](pics/door2.jpg)
 ## Activity - Knowledge Work
 
-+ Discuss: How learning is valued on your team and in your organization?
++ Discuss: How is learning valued on your teams and in your organization?
 
 ^ Get them discussing learning in their org. How safe? How valued? How recognized?
 
@@ -126,9 +126,10 @@ You're not in the middle of a tool revolution... you're in the middle of a _craf
 ---
 
 ![](pics/door2.jpg)
-## Activity - Tightly Coupled, Loosley Aligned?
+## Activity - Tightly Coupled, Loosely Aligned?
 
 + Discuss: What communication styles define your org structure?
++ What impact do they have on performance, quality, and innovation?
 
 ^ Break into small groups (3 to 5) and play social anthropologist. What communications forces shape your organization?
 
@@ -197,12 +198,12 @@ Continue until everyone stops moving.
 ---
 
 ![](pics/plastic3.jpg)
-# [Themes: New Product development](#product)
+# [Themes: New, new product development](#product)
 <a name="to_product"/>
 
 + What Agile Leaves Out
 + Opportunities not Backlogs
-+ Delighters
++ Process must be contextualized
 
 ---
 
@@ -235,7 +236,8 @@ Continue until everyone stops moving.
 # [Themes: Strategy as Conversation](#strategy)
 <a name="to_strategy"/>
 
-+ Product + practise.
++ Product + practise
++ Close customer collaboration
 + Validate your assumptions measurably
 
 ---
@@ -309,6 +311,16 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 
 ---
 
+![](pics/door2.jpg)
+## Activity - Contrast
+
+Dis
+
++ What words describe process?
++ What words describe games?
+
+---
+
 ![](pics/plastic3.jpg)
 # [Teams: High Performance Teams](#team)
 <a name="to_team"/>
@@ -339,7 +351,6 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 ---
 
 ![](pics/plastic3.jpg)
-
 # [Teams: The Coaching Practice](#coaching)
 <a name="to_coaching"/>
 
@@ -352,7 +363,6 @@ collect J2 sheets from each team at the end - teams must build new J2s with each
 ---
 
 ![](pics/plastic3.jpg)
-
 # [Teams: Building a Community of Practice](#cop)
 <a name="to_cop"/>
 
@@ -435,7 +445,6 @@ this slide intentionally left blank.
 
 + What is Pragmatism?
 
-
 ---
 <a name="brave"/>
 ### 21st Century Value Exchange
@@ -452,6 +461,8 @@ this slide intentionally left blank.
 <a name="devops"/>
 ## More about DevOps
 [back](#to_devops)
+
++ Agile is a mindset
 
 ---
 
