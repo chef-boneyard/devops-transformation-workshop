@@ -293,7 +293,6 @@ Continue until everyone stops moving.
 ^ ROAR (Rest 5mins, Orient 5mins, Act 3mins (it's on the J2, ready to ship), Reflect 2mins)
 collect J2 sheets from each team at the end - teams must build new J2s with each iteration
 
-
 ---
 
 ![](pics/plastic3.jpg)
@@ -458,6 +457,11 @@ this slide intentionally left blank.
 ## More about Metrics
 [back](#to_flow)
 
++ interrupts and their costs
++ Triage tactics
++ Mature teams estimate
++ Burn downs charts, story points, and other forms of agile abuse
+
 ---
 
 <a name="product"/>
@@ -465,6 +469,7 @@ this slide intentionally left blank.
 [back](#to_product)
 
 ---
+
 <a name="holy"/>
 ### the holy shit moment...
 [back](#to_holy)
