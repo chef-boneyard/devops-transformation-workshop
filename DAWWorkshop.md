@@ -60,7 +60,7 @@ Director Learning and development - CHEF
 + Overview of the new world.
 + History of DevOps (Agile, Lean, Continuous Delivery).
 + Aquire tools for working in the new way - Lean/Agile/CD.
-+ Identify an MVP for a project you can deliver in 6 weeks (product and practice).
++ Identify an MVP for a project you can deliver in 6-8 weeks.
 
 ---
 
