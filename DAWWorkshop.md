@@ -120,7 +120,7 @@ You're not in the middle of a tool revolution... you're in the middle of a _craf
 
 + Organisational structure is history not strategy
 + Silos beget Supervisors, Supervisors beget process
-+ Only small, entrepreneurial teams have the context for defining quality and 'done'.
++ Only [small, entrepreneurial teams](/MetcalfeLewinDunbar.md) have the context for defining quality and 'done'.
 + Highly Reliable Organisations
 
 ---

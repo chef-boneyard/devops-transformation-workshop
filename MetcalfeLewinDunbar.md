@@ -14,3 +14,5 @@ Alignment: Coherence and unity of vision is simply harder to maintain. This is w
 Consistency: Small teams pair effectively and are able to intervene effectively when qualitative norms are violated (style preferences, coding standards, library use, etc.)
 
 Estimation: Why is this important? Cost and time estimates in software development are notoriously difficult. There is no standard way to measure 'cost per story point' or 'cost per use case'. Attempts to measure demonstrate that variation in estimates can be as high as 400%. A study in the late 90's showed that the 'cost per function point' of a team of size 7 was $566 and that of a team of size 14 was $2970
+
+Lewin - it is not just your personal characteristics, but also your environment that drives your behavior. Your habits, your disposition is highly dependent upon context. In many cases, your environment will drive your behavior even more than your personality
