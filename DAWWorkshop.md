@@ -60,7 +60,7 @@ Director Learning and development - CHEF
 + Overview of the new world.
 + History of DevOps (Agile, Lean, Continuous Delivery).
 + Aquire tools for working in the new way - Lean/Agile/CD.
-+ Identify an MVP for a project you can deliver in 6 weeks (product and practice).
++ Identify an MVP for a project you can deliver in 6-8 weeks.
 
 ---
 
@@ -120,7 +120,7 @@ You're not in the middle of a tool revolution... you're in the middle of a _craf
 
 + Organisational structure is history not strategy
 + Silos beget Supervisors, Supervisors beget process
-+ Only small, entrepreneurial teams have the context for defining quality and 'done'.
++ Only [small, entrepreneurial teams](/MetcalfeLewinDunbar.md) have the context for defining quality and 'done'.
 + Highly Reliable Organisations
 
 ---
