@@ -162,6 +162,8 @@ Learn to use the language and tools of both schools - Draw the model?
 + Software is eating the world
 + Velocity Hedgehogs & Compliance foxes
 
+TODO>> this section needs work.
+
 ---
 
 ![](pics/plastic3.jpg)
@@ -397,8 +399,10 @@ this slide intentionally left blank.
 + Oppose
 + Follow
 
-<<<<<<< HEAD
-=======
+---
+
+![fit](pics/devops  - 16.jpg)
+
 ---
 
 ![](pics/plastic3.jpg)
@@ -407,7 +411,6 @@ this slide intentionally left blank.
 
 ^Break slide, put it up during breaks
 
->>>>>>> 4513d5ce4c13c10a574d7eb47ad7ff69c51f6541
 ---
 <a name="tools"/>
 ## More about Tools
@@ -422,6 +425,14 @@ this slide intentionally left blank.
 + Metcalf's Law
 
 ---
+
+![fit](pics/devops  - 2.jpg)
+
+---
+
+![fit](pics/devops  - 3.jpg)
+
+---
 <a name="conway"/>
 [back](#to_conway)
 ###Highly Reliable Organisations
@@ -431,6 +442,8 @@ this slide intentionally left blank.
 + Defer to Expertise
 + Obsessed with Resilience
 
+TODO>> Picture for HRO
+
 ---
 
 <a name="conway"/>
@@ -438,11 +451,16 @@ this slide intentionally left blank.
 ###Anti - Fragility  (Nassim Taleb)
 
 ---
+
+TODO>> Picture for Anti-fragile
+
+---
 <a name="brave"/>
 ## More about the Brave New World
 [back](#to_brave)
 
 + What is Pragmatism?
++ What is the alternative? 
 
 ---
 <a name="brave"/>

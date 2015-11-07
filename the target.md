@@ -16,7 +16,7 @@ I am sure that you have tried, before today, to paint a picture of a compelling 
 
 What we learn from our Agile experience is that all we can really bet on is the next one or two steps toward a fairly vague and certainly contingent future state, our understanding of which evolves as we get closer to it through _action_. So the circumstances of people sharing this contingent, perhaps ephemeral, definition of the future are fraught with risk. We learn to have different kinds of conversations and create strategies to manage internal stakeholders’ perceptions and expectations along the way while we try to subtly guide the process in what we think is the right direction.
 
-Sometimes these strategies are mundane and innocuous, perhaps a simple omission of the broader context - _“let’s not worry about scale until it becomes a problem, let’s just focus on making this team better..”_. I have used this many times before and it works.
+Sometimes these strategies are mundane, innocuous, and effective; perhaps a simple omission of the broader context - _“let’s not worry about scale until it becomes a problem, let’s just focus on making this team better..”_. I have used this many times before and it works.
 
 But they can also be dangerous. Most dangerous is when these approaches crowd out our reflection on the target itself. We become so obsessed with progress that the destination recedes from our consideration. 
 
