@@ -162,8 +162,6 @@ Learn to use the language and tools of both schools - Draw the model?
 + Software is eating the world
 + Velocity Hedgehogs & Compliance foxes
 
-TODO>> this section needs work.
-
 ---
 
 ![](pics/plastic3.jpg)
@@ -184,17 +182,6 @@ TODO>> this section needs work.
 + Discuss: Which values exemplify my team?
 + Which are a struggle?
 + Which are a puzzle?
-
----
-
-![](pics/door2.jpg)
-## Activity - The Game of Triangles
-
-Secretly pick two friends.
-Move around the room so that you and your two friends form the points of an equilateral triangle.
-Continue until everyone stops moving.
-
-^Debrief: What did that feel like? What would that have been like if you could only move when and where your manager tells you to?
 
 ---
 
@@ -405,6 +392,18 @@ this slide intentionally left blank.
 
 ---
 
+![](pics/door2.jpg)
+## Activity - The Game of Triangles
+
+Secretly pick two friends.
+Move around the room so that you and your two friends form the points of an equilateral triangle.
+Continue until everyone stops moving.
+
+^Debrief: What did that feel like? What would that have been like if you could only move when and where your manager tells you to?
+
+---
+
+
 ![](pics/plastic3.jpg)
 
 ## BREAK
@@ -475,6 +474,10 @@ TODO>> Picture for Anti-fragile
 
 ---
 
+![fit](pics/devops  - 11.jpg)
+
+---
+
 <a name="devops"/>
 ## More about DevOps
 [back](#to_devops)
@@ -491,6 +494,10 @@ TODO>> Picture for Anti-fragile
 + Triage tactics
 + Mature teams estimate
 + Burn downs charts, story points, and other forms of agile abuse
+
+---
+
+![fit](pics/devops  - 15.jpg)
 
 ---
 
@@ -524,9 +531,17 @@ TODO>> Picture for Anti-fragile
 
 ---
 
+![fit](pics/devops  - 20.jpg)
+
+---
+
 <a name="maker"/>
 ## More about the Maker Cycle
 [back](#to_maker)
+
+---
+
+![fit](pics/devops  - 7.jpg)
 
 ---
 
@@ -536,9 +551,21 @@ TODO>> Picture for Anti-fragile
 
 ---
 
+![fit](pics/devops  - 12.jpg)
+
+---
+
+![fit](pics/devops  - 8.jpg)
+
+---
+
 <a name="team"/>
 ## More about Teams
 [back](#to_team)
+
+---
+
+![fit](pics/devops  - 16.jpg)
 
 ---
 
@@ -548,9 +575,17 @@ TODO>> Picture for Anti-fragile
 
 ---
 
+![fit](pics/devops  - 18.jpg)
+
+---
+
 <a name="cop"/>
 ## More about Communities of Practise
 [back](#to_cop)
+
+---
+
+![fit](pics/devops  - 6.jpg)
 
 ---
 

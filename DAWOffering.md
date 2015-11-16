@@ -12,6 +12,9 @@ The DevOps Acceleration Workshop is designed for organizations that have very li
 
 Across 3 Days, attendees are taken through the core technical, organisational and methodological elements of DevOps and will identify and plan a project with which to get started on their road to experiencing DevOps for real in their organisation.
 
+## Participants
+
+
 ## Approach
 The workshop is split into 3 sections;
 
