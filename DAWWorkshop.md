@@ -1,5 +1,5 @@
 autoscale: true
-footer: CHEF DAW, 2015
+footer: CHEF DTW, 2015
 slidenumbers: true
 
 ^ Style guide:
@@ -14,7 +14,7 @@ We create an agenda separately from this file as it changes with every session (
 Talking points are now visible on the slides. We don't refer to the slides, they're just backgrounds and the text wont distract. Also - it allows us to easily send out a PDF of the slides with some actual content.
 
 ![](pics/paint1.JPG)
-# [fit] DevOps Acceleration Workshop
+# [fit] DevOps Transformation Workshop
 
 ---
 
@@ -459,7 +459,7 @@ TODO>> Picture for Anti-fragile
 [back](#to_brave)
 
 + What is Pragmatism?
-+ What is the alternative? 
++ What is the alternative?
 
 ---
 <a name="brave"/>
