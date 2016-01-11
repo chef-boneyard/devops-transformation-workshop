@@ -1,5 +1,5 @@
 autoscale: true
-footer: CHEF DTW, 2015
+footer: CHEF DTW, 2015-2016
 slidenumbers: true
 
 ^ Style guide:
