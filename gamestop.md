@@ -85,12 +85,7 @@ Director Learning and development - CHEF
 ## 1 - Silos beget supervision, supervision begets process.
 
 ^ Your organization's structure is the product of its communication history (Conway’s Law). Cross functional teams
-2 Wizards
-
----
-
-![](pics/paint1.JPG)
-## Organize for Matcalf’s Law, not Conway’s
+organize for Metcalf's, not Conway's
 
 ---
 
