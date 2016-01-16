@@ -28,12 +28,14 @@ Director Learning and development - CHEF
 
 ![](pics/paint1.JPG)
 ## Agenda
-+ Old man yacks for 90ish minutes
++ Introductions
++ Working agreements
++ IOTA Model (Show me where it hurts)
 + Break
-+ Old man yacks more, sometimes we yack back
++ Product Orientation
++ Learning is the only advantage
 + Break for lunch
-+ More yacking
-+ Done
++ Aquiring tools
 
 
 ---
@@ -78,6 +80,11 @@ Director Learning and development - CHEF
 + It's the people, stupid!
 + Practice
 + Transformation!
+
+---
+
+![](pics/paint1.JPG)
+# ELSA Model
 
 ---
 
@@ -178,11 +185,6 @@ organize for Metcalf's, not Conway's
 ## Create ‘Holy Shit Moments’
 
 ^ and support them with community.
-
----
-
-![](pics/paint1.JPG)
-# ELSA Model
 
 ---
 

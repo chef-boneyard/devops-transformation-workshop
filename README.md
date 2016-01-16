@@ -1,5 +1,17 @@
-# DAW
+# DTW
 21st Century Craft Workshop
+
+## Org Change - Our Basic approach
++ Assess capability within the org to deliver product effectively and then look at ability to innovate (how do we measure innovative capabilities?)
++ Assess values, beliefs, practices as understood by the employees and contrast with current good practices
++ Communicate the need for new values, practices, and beliefs about effectiveness
++ Move the organization to a new way of working by:
+  + Designing events (ELSA/IOTA-J2)
+  + Creating communities around the events that hold the new values, practices, and beliefs
+  + Coaching/Mentorship through the execution of those events
+  + Training new process, practices, and capabilities (for instance the capability to coach, to build communities of practice, to use Chef Delivery, etc.)
+  + Crafting new stories, heroes and rituals around the values, practices, and beliefs as exemplified through the events
++ Simultaneously with the creation of new culture, align the company’s org structure (cross functional teams, flatter, distributed authority, empowered teams) and incentive programs (compensation plans, bonuses, promotions, etc.) to the new values. Failure to realign org structure and incentives will doom any new culture change. (Blank/Schon, et. al.)
 
 ## Facilitators - Required Reading
 + http://www.cddc.vt.edu/sionline/si/manifesto.html
