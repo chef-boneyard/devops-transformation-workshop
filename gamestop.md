@@ -28,12 +28,14 @@ Director Learning and development - CHEF
 
 ![](pics/paint1.JPG)
 ## Agenda
-+ Old man yacks for 90ish minutes
++ Introductions
++ Working agreements
++ IOTA Model (Show me where it hurts)
 + Break
-+ Old man yacks more, sometimes we yack back
++ Product Orientation
++ Learning is the only advantage
 + Break for lunch
-+ More yacking
-+ Done
++ Aquiring tools
 
 
 ---
@@ -82,15 +84,15 @@ Director Learning and development - CHEF
 ---
 
 ![](pics/paint1.JPG)
-## 1 - Silos beget supervision, supervision begets process.
-
-^ Your organization's structure is the product of its communication history (Conway’s Law). Cross functional teams
-2 Wizards
+# ELSA Model
 
 ---
 
 ![](pics/paint1.JPG)
-## Organize for Matcalf’s Law, not Conway’s
+## 1 - Silos beget supervision, supervision begets process.
+
+^ Your organization's structure is the product of its communication history (Conway’s Law). Cross functional teams
+organize for Metcalf's, not Conway's
 
 ---
 
@@ -183,11 +185,6 @@ Director Learning and development - CHEF
 ## Create ‘Holy Shit Moments’
 
 ^ and support them with community.
-
----
-
-![](pics/paint1.JPG)
-# ELSA Model
 
 ---
 
